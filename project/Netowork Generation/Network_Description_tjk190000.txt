@@ -1,0 +1,21 @@
+Author: Tanner Kogel
+
+There are three GML files included in the zip file (Amtrak_Network.GML, Amtrak_Induced_Cities.GML, and Amtrak_Noninduced_Cities.GML). 
+
+
+Description:
+
+Amtrak_Netowrk.GML
+The nodes in this network are the 530 stations that are visited by Amtrak trains. An edge exists between two stations if there is an Amtrak route that travels directly from one station to the other. Since the routes are traveled in both directions this graph is undirected. The weight of the edge represents the number of Amtrak routes that travel directly between the two adjacent stations.
+
+Amtrak_Induced_Cities.GML
+The nodes in this network are the 331 cities in The United States that were estimated to have a population above 100,000 as of July 1, 2021 as estimated by the U.S. Census Bureau. An edge exists between two cities if there exists an Amtrak route that travels directly between a station located in each city. Self-edges are allowed in this network. The weight of the edge represents the number of Amtrak routes that travel directly between the two adjacent cities.
+
+Amtrak_Noninduced_Cities.GML
+The nodes in this network are identical to those in the previous network. An edge exists between two cities if there exists an Amtrak route that travels between a station located in each city without stopping at another city that is defined as a node in this graph. For example, there exists an Amtrak route as shown below:
+Springfield, MA (SPG) <--> Windsor Locks, CT (WNL) <--> Windsor, CT (WND) <--> Hartford, CT (HFD)
+In the Amtrak_Network.GML graph, the edges would appear exactly as they do above. But, Windsor Locks, CT and Windsor, CT are not found in the list of cities, and therefore do not exist as nodes in the Amtrak_Induced_Cities.GML or Amtrak_Noninduced_Cities.GML graphs. In the induced case, there would be no edge between Springfield, Ma and Hartford, CT, but in the noninduced case an edge would exist between Springfield, MA and Hartford, CT.
+
+
+Network Generation:
+Adjacent stations on individual Amtrak routes are gathered from https://www.amtrak.com/routes.html and output to a text file entitled raw_amtrak.txt where each route is seperated by a line of whitespace. The list of cities as well as other useful information about the geographical region is gathered from https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population and output to a text file  entitled cities_from_wiki.txt. These text files are used to create the networks in tjk190000_network_generation.ipynb and export the GML files in the correct format. 

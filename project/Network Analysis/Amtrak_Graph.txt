@@ -1,0 +1,1060 @@
+Boston, MA - South Station (BOS)
+	{Boston, MA - Back Bay Station (BBY): {'weight': 3}}, {Rhinecliff, NY (RHI): {'weight': 1}}, }
+Boston, MA - Back Bay Station (BBY)
+	{Boston, MA - South Station (BOS): {'weight': 3}}, {Route 128, MA (RTE): {'weight': 2}}, {Framingham, MA (FRA): {'weight': 1}}, }
+Route 128, MA (RTE)
+	{Boston, MA - Back Bay Station (BBY): {'weight': 2}}, {Providence, RI - Amtrak/MBTA Station (PVD): {'weight': 2}}, }
+Providence, RI - Amtrak/MBTA Station (PVD)
+	{Route 128, MA (RTE): {'weight': 2}}, {New Haven, CT - Union Station (NHV): {'weight': 1}}, {Kingston, RI (KIN): {'weight': 1}}, }
+New Haven, CT - Union Station (NHV)
+	{Providence, RI - Amtrak/MBTA Station (PVD): {'weight': 1}}, {Stamford, CT (STM): {'weight': 1}}, {New Haven, CT - State Street Station (STS): {'weight': 3}}, {Bridgeport, CT (BRP): {'weight': 2}}, {Wallingford, CT (WFD): {'weight': 1}}, }
+Stamford, CT (STM)
+	{New Haven, CT - Union Station (NHV): {'weight': 1}}, {New York, NY - Moynihan Train Hall (NYP): {'weight': 2}}, {Bridgeport, CT (BRP): {'weight': 2}}, {New Rochelle, NY (NRO): {'weight': 1}}, }
+New York, NY - Moynihan Train Hall (NYP)
+	{Stamford, CT (STM): {'weight': 2}}, {Newark, NJ - Penn Station (NWK): {'weight': 7}}, {Yonkers, NY (YNY): {'weight': 3}}, {Croton-Harmon, NY (CRT): {'weight': 1}}, {New Rochelle, NY (NRO): {'weight': 1}}, }
+Newark, NJ - Penn Station (NWK)
+	{New York, NY - Moynihan Train Hall (NYP): {'weight': 7}}, {Metropark, NJ (MET): {'weight': 2}}, {Trenton, NJ (TRE): {'weight': 4}}, {Newark, NJ - Liberty International Airport (EWR): {'weight': 3}}, {New York, NY - Penn Station (NYP): {'weight': 2}}, }
+Metropark, NJ (MET)
+	{Newark, NJ - Penn Station (NWK): {'weight': 2}}, {Trenton, NJ (TRE): {'weight': 2}}, {New Brunswick, NJ (NBK): {'weight': 3}}, {Newark, NJ - Liberty International Airport (EWR): {'weight': 3}}, }
+Trenton, NJ (TRE)
+	{Newark, NJ - Penn Station (NWK): {'weight': 4}}, {Metropark, NJ (MET): {'weight': 2}}, {Philadelphia, PA - William H. Gray III 30th St. Station (PHL): {'weight': 6}}, {Cornwells Heights, PA (CWH): {'weight': 3}}, {Princeton Junction, NJ (PJC): {'weight': 3}}, }
+Philadelphia, PA - William H. Gray III 30th St. Station (PHL)
+	{Trenton, NJ (TRE): {'weight': 6}}, {Wilmington, DE (WIL): {'weight': 7}}, {Ardmore, PA (ARD): {'weight': 2}}, {North Philadelphia, PA (PHN): {'weight': 3}}, }
+Wilmington, DE (WIL)
+	{Philadelphia, PA - William H. Gray III 30th St. Station (PHL): {'weight': 7}}, {Baltimore, MD - Penn Station (BAL): {'weight': 5}}, {Newark, DE (NRK): {'weight': 1}}, {Aberdeen, MD (ABE): {'weight': 1}}, }
+Baltimore, MD - Penn Station (BAL)
+	{Wilmington, DE (WIL): {'weight': 5}}, {Baltimore, MD - BWI Thurgood Marshall Airport (BWI): {'weight': 4}}, {Washington, DC - Union Station (WAS): {'weight': 3}}, {Aberdeen, MD (ABE): {'weight': 2}}, }
+Baltimore, MD - BWI Thurgood Marshall Airport (BWI)
+	{Baltimore, MD - Penn Station (BAL): {'weight': 4}}, {Washington, DC - Union Station (WAS): {'weight': 1}}, {New Carrollton, MD (NCR): {'weight': 3}}, }
+Washington, DC - Union Station (WAS)
+	{Baltimore, MD - Penn Station (BAL): {'weight': 3}}, {Baltimore, MD - BWI Thurgood Marshall Airport (BWI): {'weight': 1}}, {Rockville, MD (RKV): {'weight': 1}}, {Alexandria, VA (ALX): {'weight': 5}}, {New Carrollton, MD (NCR): {'weight': 3}}, }
+Yonkers, NY (YNY)
+	{New York, NY - Moynihan Train Hall (NYP): {'weight': 3}}, {Croton-Harmon, NY (CRT): {'weight': 5}}, {New York, NY - Penn Station (NYP): {'weight': 2}}, }
+Croton-Harmon, NY (CRT)
+	{New York, NY - Moynihan Train Hall (NYP): {'weight': 1}}, {Yonkers, NY (YNY): {'weight': 5}}, {Poughkeepsie, NY (POU): {'weight': 6}}, }
+Poughkeepsie, NY (POU)
+	{Croton-Harmon, NY (CRT): {'weight': 6}}, {Rhinecliff, NY (RHI): {'weight': 6}}, }
+Rhinecliff, NY (RHI)
+	{Boston, MA - South Station (BOS): {'weight': 1}}, {Poughkeepsie, NY (POU): {'weight': 6}}, {Hudson, NY (HUD): {'weight': 5}}, }
+Hudson, NY (HUD)
+	{Rhinecliff, NY (RHI): {'weight': 5}}, {Albany-Rensselaer, NY (ALB): {'weight': 5}}, }
+Albany-Rensselaer, NY (ALB)
+	{Hudson, NY (HUD): {'weight': 5}}, {Schenectady, NY (SDY): {'weight': 5}}, {Pittsfield, MA (PIT): {'weight': 2}}, }
+Schenectady, NY (SDY)
+	{Albany-Rensselaer, NY (ALB): {'weight': 5}}, {Saratoga Springs, NY (SAR): {'weight': 2}}, {Amsterdam, NY (AMS): {'weight': 2}}, {Utica, NY (UCA): {'weight': 1}}, }
+Saratoga Springs, NY (SAR)
+	{Schenectady, NY (SDY): {'weight': 2}}, {Fort Edward, NY (FED): {'weight': 2}}, }
+Fort Edward, NY (FED)
+	{Saratoga Springs, NY (SAR): {'weight': 2}}, {Whitehall, NY (WHL): {'weight': 1}}, {Castleton, VT (CNV): {'weight': 1}}, }
+Whitehall, NY (WHL)
+	{Fort Edward, NY (FED): {'weight': 1}}, {Ticonderoga, NY (FTC): {'weight': 1}}, }
+Ticonderoga, NY (FTC)
+	{Whitehall, NY (WHL): {'weight': 1}}, {Port Henry, NY (POH): {'weight': 1}}, }
+Port Henry, NY (POH)
+	{Ticonderoga, NY (FTC): {'weight': 1}}, {Westport, NY (WSP): {'weight': 1}}, }
+Westport, NY (WSP)
+	{Port Henry, NY (POH): {'weight': 1}}, {Port Kent, NY (PRK): {'weight': 1}}, }
+Port Kent, NY (PRK)
+	{Westport, NY (WSP): {'weight': 1}}, {Plattsburgh, NY (PLB): {'weight': 1}}, }
+Plattsburgh, NY (PLB)
+	{Port Kent, NY (PRK): {'weight': 1}}, {Rouses Point, NY (RSP): {'weight': 1}}, }
+Rouses Point, NY (RSP)
+	{Plattsburgh, NY (PLB): {'weight': 1}}, {St-Lambert, QC (SLQ): {'weight': 1}}, }
+St-Lambert, QC (SLQ)
+	{Rouses Point, NY (RSP): {'weight': 1}}, {Montreal, QC - Gare Centrale/Central Station (MTR): {'weight': 1}}, }
+Montreal, QC - Gare Centrale/Central Station (MTR)
+	{St-Lambert, QC (SLQ): {'weight': 1}}, }
+Eugene, OR - Amtrak Station (EUG)
+	{Albany, OR (ALY): {'weight': 2}}, {Chemult, OR (CMO): {'weight': 1}}, }
+Albany, OR (ALY)
+	{Eugene, OR - Amtrak Station (EUG): {'weight': 2}}, {Salem, OR - Amtrak Station (SLM): {'weight': 2}}, }
+Salem, OR - Amtrak Station (SLM)
+	{Albany, OR (ALY): {'weight': 2}}, {Oregon City, OR (ORC): {'weight': 1}}, {Portland, OR - Union Station (PDX): {'weight': 1}}, }
+Oregon City, OR (ORC)
+	{Salem, OR - Amtrak Station (SLM): {'weight': 1}}, {Portland, OR - Union Station (PDX): {'weight': 1}}, }
+Portland, OR - Union Station (PDX)
+	{Salem, OR - Amtrak Station (SLM): {'weight': 1}}, {Oregon City, OR (ORC): {'weight': 1}}, {Vancouver, WA (VAN): {'weight': 3}}, {Ephrata, WA (EPH): {'weight': 1}}, }
+Vancouver, WA (VAN)
+	{Portland, OR - Union Station (PDX): {'weight': 3}}, {Kelso-Longview, WA (KEL): {'weight': 2}}, {Bingen-White Salmon, WA (BNG): {'weight': 1}}, }
+Kelso-Longview, WA (KEL)
+	{Vancouver, WA (VAN): {'weight': 2}}, {Centralia, WA (CTL): {'weight': 2}}, }
+Centralia, WA (CTL)
+	{Kelso-Longview, WA (KEL): {'weight': 2}}, {Olympia-Lacey, WA (OLW): {'weight': 2}}, }
+Olympia-Lacey, WA (OLW)
+	{Centralia, WA (CTL): {'weight': 2}}, {Tacoma, WA (TAC): {'weight': 2}}, }
+Tacoma, WA (TAC)
+	{Olympia-Lacey, WA (OLW): {'weight': 2}}, {Tukwila, WA (TUK): {'weight': 1}}, {Seattle, WA - King Street Station (SEA): {'weight': 1}}, }
+Tukwila, WA (TUK)
+	{Tacoma, WA (TAC): {'weight': 1}}, {Seattle, WA - King Street Station (SEA): {'weight': 1}}, }
+Seattle, WA - King Street Station (SEA)
+	{Tacoma, WA (TAC): {'weight': 1}}, {Tukwila, WA (TUK): {'weight': 1}}, {Edmonds, WA (EDM): {'weight': 2}}, }
+Edmonds, WA (EDM)
+	{Seattle, WA - King Street Station (SEA): {'weight': 2}}, {Everett, WA (EVR): {'weight': 2}}, }
+Everett, WA (EVR)
+	{Edmonds, WA (EDM): {'weight': 2}}, {Stanwood, WA (STW): {'weight': 1}}, {Leavenworth, WA - Icicle Station (LWA): {'weight': 1}}, }
+Stanwood, WA (STW)
+	{Everett, WA (EVR): {'weight': 1}}, {Mount Vernon, WA (MVW): {'weight': 1}}, }
+Mount Vernon, WA (MVW)
+	{Stanwood, WA (STW): {'weight': 1}}, {Bellingham, WA (BEL): {'weight': 1}}, }
+Bellingham, WA (BEL)
+	{Mount Vernon, WA (MVW): {'weight': 1}}, {Vancouver, BC - Pacific Central Station (VAC): {'weight': 1}}, }
+Vancouver, BC - Pacific Central Station (VAC)
+	{Bellingham, WA (BEL): {'weight': 1}}, }
+Springfield, MA (SPG)
+	{Windsor Locks, CT (WNL): {'weight': 4}}, {Pittsfield, MA (PIT): {'weight': 1}}, {Worcester, MA - Union Station (WOR): {'weight': 1}}, {Old Saybrook, CT (OSB): {'weight': 1}}, {Holyoke, MA (HLK): {'weight': 2}}, }
+Windsor Locks, CT (WNL)
+	{Springfield, MA (SPG): {'weight': 4}}, {Windsor, CT (WND): {'weight': 3}}, {Hartford, CT (HFD): {'weight': 1}}, }
+Windsor, CT (WND)
+	{Windsor Locks, CT (WNL): {'weight': 3}}, {Hartford, CT (HFD): {'weight': 3}}, }
+Hartford, CT (HFD)
+	{Windsor Locks, CT (WNL): {'weight': 1}}, {Windsor, CT (WND): {'weight': 3}}, {Berlin, CT (BER): {'weight': 4}}, }
+Berlin, CT (BER)
+	{Hartford, CT (HFD): {'weight': 4}}, {Meriden, CT (MDN): {'weight': 4}}, }
+Meriden, CT (MDN)
+	{Berlin, CT (BER): {'weight': 4}}, {Wallingford, CT (WFD): {'weight': 4}}, }
+Wallingford, CT (WFD)
+	{New Haven, CT - Union Station (NHV): {'weight': 1}}, {Meriden, CT (MDN): {'weight': 4}}, {New Haven, CT - State Street Station (STS): {'weight': 3}}, }
+New Haven, CT - State Street Station (STS)
+	{New Haven, CT - Union Station (NHV): {'weight': 3}}, {Wallingford, CT (WFD): {'weight': 3}}, }
+Lorton, VA - Auto Train to Orlando Area (LOR)
+	{Sanford, FL - Auto Train to Washington, DC Area (SFA): {'weight': 1}}, }
+Sanford, FL - Auto Train to Washington, DC Area (SFA)
+	{Lorton, VA - Auto Train to Orlando Area (LOR): {'weight': 1}}, }
+Pittsfield, MA (PIT)
+	{Albany-Rensselaer, NY (ALB): {'weight': 2}}, {Springfield, MA (SPG): {'weight': 1}}, }
+Chicago, IL - Union Station (CHI)
+	{Naperville, IL (NPV): {'weight': 2}}, {South Bend, IN (SOB): {'weight': 2}}, {Dyer, IN (DYE): {'weight': 1}}, {Homewood, IL (HMW): {'weight': 1}}, {Glenview, IL (GLN): {'weight': 2}}, {Summit, IL (SMT): {'weight': 2}}, {Hammond-Whiting, IN (HMI): {'weight': 1}}, {Joliet, IL (JOL): {'weight': 1}}, }
+Naperville, IL (NPV)
+	{Chicago, IL - Union Station (CHI): {'weight': 2}}, {McCook, NE (MCK): {'weight': 1}}, {La Grange, IL (LAG): {'weight': 1}}, {Plano, IL (PLO): {'weight': 1}}, {Mendota, IL (MDT): {'weight': 1}}, }
+McCook, NE (MCK)
+	{Naperville, IL (NPV): {'weight': 1}}, {Elko, NV (ELK): {'weight': 1}}, {Holdrege, NE (HLD): {'weight': 1}}, {Fort Morgan, CO (FMG): {'weight': 1}}, }
+Elko, NV (ELK)
+	{McCook, NE (MCK): {'weight': 1}}, {Winnemucca, NV (WNN): {'weight': 2}}, {Salt Lake City, UT - Amtrak Station (SLC): {'weight': 1}}, }
+Winnemucca, NV (WNN)
+	{Elko, NV (ELK): {'weight': 2}}, {Princeton, IL (PCT): {'weight': 1}}, {Reno, NV (RNO): {'weight': 1}}, }
+Princeton, IL (PCT)
+	{Winnemucca, NV (WNN): {'weight': 1}}, {Galesburg, IL (GBB): {'weight': 2}}, {Mendota, IL (MDT): {'weight': 2}}, {Kewanee, IL (KEE): {'weight': 1}}, }
+Galesburg, IL (GBB)
+	{Princeton, IL (PCT): {'weight': 2}}, {Burlington, IA (BRL): {'weight': 1}}, {Kewanee, IL (KEE): {'weight': 1}}, {Macomb, IL (MAC): {'weight': 1}}, {Fort Madison, IA (FMD): {'weight': 1}}, }
+Burlington, IA (BRL)
+	{Galesburg, IL (GBB): {'weight': 1}}, {Mt. Pleasant, IA (MTP): {'weight': 1}}, }
+Mt. Pleasant, IA (MTP)
+	{Burlington, IA (BRL): {'weight': 1}}, {Ottumwa, IA (OTM): {'weight': 1}}, }
+Ottumwa, IA (OTM)
+	{Mt. Pleasant, IA (MTP): {'weight': 1}}, {Osceola, IA (OSC): {'weight': 1}}, }
+Osceola, IA (OSC)
+	{Ottumwa, IA (OTM): {'weight': 1}}, {Creston, IA (CRN): {'weight': 1}}, }
+Creston, IA (CRN)
+	{Osceola, IA (OSC): {'weight': 1}}, {Omaha, NE (OMA): {'weight': 1}}, }
+Omaha, NE (OMA)
+	{Creston, IA (CRN): {'weight': 1}}, {Lincoln, NE (LNK): {'weight': 1}}, }
+Lincoln, NE (LNK)
+	{Omaha, NE (OMA): {'weight': 1}}, {Hastings, NE (HAS): {'weight': 1}}, }
+Hastings, NE (HAS)
+	{Lincoln, NE (LNK): {'weight': 1}}, {Holdrege, NE (HLD): {'weight': 1}}, }
+Holdrege, NE (HLD)
+	{McCook, NE (MCK): {'weight': 1}}, {Hastings, NE (HAS): {'weight': 1}}, }
+Fort Morgan, CO (FMG)
+	{McCook, NE (MCK): {'weight': 1}}, {Denver, CO - Union Station (DEN): {'weight': 1}}, }
+Denver, CO - Union Station (DEN)
+	{Fort Morgan, CO (FMG): {'weight': 1}}, {Fraser-Winter Park, CO (WIP): {'weight': 1}}, }
+Fraser-Winter Park, CO (WIP)
+	{Denver, CO - Union Station (DEN): {'weight': 1}}, {Granby, CO (GRA): {'weight': 1}}, }
+Granby, CO (GRA)
+	{Fraser-Winter Park, CO (WIP): {'weight': 1}}, {Glenwood Springs, CO (GSC): {'weight': 1}}, }
+Glenwood Springs, CO (GSC)
+	{Granby, CO (GRA): {'weight': 1}}, {Grand Junction, CO (GJT): {'weight': 1}}, }
+Grand Junction, CO (GJT)
+	{Glenwood Springs, CO (GSC): {'weight': 1}}, {Green River, UT (GRI): {'weight': 1}}, }
+Green River, UT (GRI)
+	{Grand Junction, CO (GJT): {'weight': 1}}, {Helper, UT (HER): {'weight': 1}}, }
+Helper, UT (HER)
+	{Green River, UT (GRI): {'weight': 1}}, {Provo, UT (PRO): {'weight': 1}}, }
+Provo, UT (PRO)
+	{Helper, UT (HER): {'weight': 1}}, {Salt Lake City, UT - Amtrak Station (SLC): {'weight': 1}}, }
+Salt Lake City, UT - Amtrak Station (SLC)
+	{Elko, NV (ELK): {'weight': 1}}, {Provo, UT (PRO): {'weight': 1}}, }
+Reno, NV (RNO)
+	{Winnemucca, NV (WNN): {'weight': 1}}, {Truckee, CA (TRU): {'weight': 1}}, }
+Truckee, CA (TRU)
+	{Reno, NV (RNO): {'weight': 1}}, {Colfax, CA (COX): {'weight': 1}}, }
+Colfax, CA (COX)
+	{Truckee, CA (TRU): {'weight': 1}}, {Roseville, CA (RSV): {'weight': 1}}, }
+Roseville, CA (RSV)
+	{Colfax, CA (COX): {'weight': 1}}, {Sacramento, CA - Sacramento Valley Station (SAC): {'weight': 2}}, {Rocklin, CA (RLN): {'weight': 1}}, }
+Sacramento, CA - Sacramento Valley Station (SAC)
+	{Roseville, CA (RSV): {'weight': 2}}, {Davis, CA (DAV): {'weight': 3}}, {Chico, CA (CIC): {'weight': 1}}, {Lodi, CA (LOD): {'weight': 1}}, }
+Davis, CA (DAV)
+	{Sacramento, CA - Sacramento Valley Station (SAC): {'weight': 3}}, {Martinez, CA (MTZ): {'weight': 2}}, {Fairfield-Vacaville, CA (FFV): {'weight': 1}}, }
+Martinez, CA (MTZ)
+	{Davis, CA (DAV): {'weight': 2}}, {Emeryville, CA (EMY): {'weight': 2}}, {Suisun-Fairfield, CA (SUI): {'weight': 1}}, {Richmond, CA (RIC): {'weight': 2}}, {Antioch-Pittsburg, CA (ACA): {'weight': 1}}, }
+Emeryville, CA (EMY)
+	{Martinez, CA (MTZ): {'weight': 2}}, {Berkeley, CA (BKY): {'weight': 1}}, {Oakland, CA - Jack London Square Station (OKJ): {'weight': 3}}, {Richmond, CA (RIC): {'weight': 1}}, }
+Auburn, CA (ARN)
+	{Rocklin, CA (RLN): {'weight': 1}}, }
+Rocklin, CA (RLN)
+	{Roseville, CA (RSV): {'weight': 1}}, {Auburn, CA (ARN): {'weight': 1}}, }
+Fairfield-Vacaville, CA (FFV)
+	{Davis, CA (DAV): {'weight': 1}}, {Suisun-Fairfield, CA (SUI): {'weight': 1}}, }
+Suisun-Fairfield, CA (SUI)
+	{Martinez, CA (MTZ): {'weight': 1}}, {Fairfield-Vacaville, CA (FFV): {'weight': 1}}, }
+Richmond, CA (RIC)
+	{Martinez, CA (MTZ): {'weight': 2}}, {Emeryville, CA (EMY): {'weight': 1}}, {Berkeley, CA (BKY): {'weight': 1}}, }
+Berkeley, CA (BKY)
+	{Emeryville, CA (EMY): {'weight': 1}}, {Richmond, CA (RIC): {'weight': 1}}, }
+Oakland, CA - Jack London Square Station (OKJ)
+	{Emeryville, CA (EMY): {'weight': 3}}, {Oakland, CA - Coliseum/Airport (OAC): {'weight': 1}}, {San Jose, CA - Diridon Station (SJC): {'weight': 1}}, {Stockton, CA - Robert J. Cabral Station (SKT): {'weight': 1}}, }
+Oakland, CA - Coliseum/Airport (OAC)
+	{Oakland, CA - Jack London Square Station (OKJ): {'weight': 1}}, {Hayward, CA (HAY): {'weight': 1}}, }
+Hayward, CA (HAY)
+	{Oakland, CA - Coliseum/Airport (OAC): {'weight': 1}}, {Fremont, CA - Amtrak/ACE Station (FMT): {'weight': 1}}, }
+Fremont, CA - Amtrak/ACE Station (FMT)
+	{Hayward, CA (HAY): {'weight': 1}}, {Santa Clara, CA - Great America (GAC): {'weight': 1}}, }
+Santa Clara, CA - Great America (GAC)
+	{Fremont, CA - Amtrak/ACE Station (FMT): {'weight': 1}}, {Santa Clara, CA - Transit Center (SCC): {'weight': 1}}, }
+Santa Clara, CA - Transit Center (SCC)
+	{Santa Clara, CA - Great America (GAC): {'weight': 1}}, {San Jose, CA - Diridon Station (SJC): {'weight': 1}}, }
+San Jose, CA - Diridon Station (SJC)
+	{Oakland, CA - Jack London Square Station (OKJ): {'weight': 1}}, {Santa Clara, CA - Transit Center (SCC): {'weight': 1}}, {Salinas, CA - Amtrak Station (SNS): {'weight': 1}}, }
+Rockville, MD (RKV)
+	{Washington, DC - Union Station (WAS): {'weight': 1}}, {Harpers Ferry, WV (HFY): {'weight': 1}}, }
+Harpers Ferry, WV (HFY)
+	{Rockville, MD (RKV): {'weight': 1}}, {Martinsburg, WV (MRB): {'weight': 1}}, }
+Martinsburg, WV (MRB)
+	{Harpers Ferry, WV (HFY): {'weight': 1}}, {Cumberland, MD - Amtrak Station (CUM): {'weight': 1}}, }
+Cumberland, MD - Amtrak Station (CUM)
+	{Martinsburg, WV (MRB): {'weight': 1}}, {Connellsville, PA (COV): {'weight': 1}}, }
+Connellsville, PA (COV)
+	{Cumberland, MD - Amtrak Station (CUM): {'weight': 1}}, {Pittsburgh, PA - Union Station (PGH): {'weight': 1}}, }
+Pittsburgh, PA - Union Station (PGH)
+	{Connellsville, PA (COV): {'weight': 1}}, {Alliance, OH (ALC): {'weight': 1}}, {Greensburg, PA - Amtrak Station (GNB): {'weight': 1}}, }
+Alliance, OH (ALC)
+	{Pittsburgh, PA - Union Station (PGH): {'weight': 1}}, {Cleveland, OH (CLE): {'weight': 1}}, }
+Cleveland, OH (CLE)
+	{Alliance, OH (ALC): {'weight': 1}}, {Elyria, OH (ELY): {'weight': 2}}, {Erie, PA (ERI): {'weight': 1}}, }
+Elyria, OH (ELY)
+	{Cleveland, OH (CLE): {'weight': 2}}, {Sandusky, OH (SKY): {'weight': 2}}, }
+Sandusky, OH (SKY)
+	{Elyria, OH (ELY): {'weight': 2}}, {Toledo, OH (TOL): {'weight': 2}}, }
+Toledo, OH (TOL)
+	{Sandusky, OH (SKY): {'weight': 2}}, {Waterloo, IN (WTI): {'weight': 1}}, {Bryan, OH (BYN): {'weight': 1}}, }
+Waterloo, IN (WTI)
+	{Toledo, OH (TOL): {'weight': 1}}, {Elkhart, IN (EKH): {'weight': 2}}, {Bryan, OH (BYN): {'weight': 1}}, }
+Elkhart, IN (EKH)
+	{Waterloo, IN (WTI): {'weight': 2}}, {South Bend, IN (SOB): {'weight': 2}}, }
+South Bend, IN (SOB)
+	{Chicago, IL - Union Station (CHI): {'weight': 2}}, {Elkhart, IN (EKH): {'weight': 2}}, }
+Alexandria, VA (ALX)
+	{Washington, DC - Union Station (WAS): {'weight': 5}}, {Manassas, VA (MSS): {'weight': 2}}, {Quantico, VA (QAN): {'weight': 1}}, {Burke Centre, VA (BCV): {'weight': 1}}, {Fredericksburg, VA (FBG): {'weight': 1}}, }
+Manassas, VA (MSS)
+	{Alexandria, VA (ALX): {'weight': 2}}, {Culpeper, VA (CLP): {'weight': 3}}, {Burke Centre, VA (BCV): {'weight': 1}}, }
+Culpeper, VA (CLP)
+	{Manassas, VA (MSS): {'weight': 3}}, {Charlottesville, VA (CVS): {'weight': 3}}, }
+Charlottesville, VA (CVS)
+	{Culpeper, VA (CLP): {'weight': 3}}, {Staunton, VA (STA): {'weight': 1}}, {Lynchburg, VA (LYH): {'weight': 2}}, }
+Staunton, VA (STA)
+	{Charlottesville, VA (CVS): {'weight': 1}}, {Clifton Forge, VA (CLF): {'weight': 1}}, }
+Clifton Forge, VA (CLF)
+	{Staunton, VA (STA): {'weight': 1}}, {White Sulphur Springs, WV (WSS): {'weight': 1}}, }
+White Sulphur Springs, WV (WSS)
+	{Clifton Forge, VA (CLF): {'weight': 1}}, {Alderson, WV (ALD): {'weight': 1}}, }
+Alderson, WV (ALD)
+	{White Sulphur Springs, WV (WSS): {'weight': 1}}, {Hinton, WV (HIN): {'weight': 1}}, }
+Hinton, WV (HIN)
+	{Alderson, WV (ALD): {'weight': 1}}, {Prince, WV (PRC): {'weight': 1}}, }
+Prince, WV (PRC)
+	{Hinton, WV (HIN): {'weight': 1}}, {Thurmond, WV (THN): {'weight': 1}}, }
+Thurmond, WV (THN)
+	{Prince, WV (PRC): {'weight': 1}}, {Montgomery, WV (MNG): {'weight': 1}}, }
+Montgomery, WV (MNG)
+	{Thurmond, WV (THN): {'weight': 1}}, {Charleston, WV (CHW): {'weight': 1}}, }
+Charleston, WV (CHW)
+	{Montgomery, WV (MNG): {'weight': 1}}, {Huntington, WV (HUN): {'weight': 1}}, }
+Huntington, WV (HUN)
+	{Charleston, WV (CHW): {'weight': 1}}, {Ashland, KY (AKY): {'weight': 1}}, }
+Ashland, KY (AKY)
+	{Huntington, WV (HUN): {'weight': 1}}, {South Shore, KY - Portsmouth, OH (SPM): {'weight': 1}}, }
+South Shore, KY - Portsmouth, OH (SPM)
+	{Ashland, KY (AKY): {'weight': 1}}, {Maysville, KY (MAY): {'weight': 1}}, }
+Maysville, KY (MAY)
+	{South Shore, KY - Portsmouth, OH (SPM): {'weight': 1}}, {Cincinnati, OH - Union Terminal (CIN): {'weight': 1}}, }
+Cincinnati, OH - Union Terminal (CIN)
+	{Maysville, KY (MAY): {'weight': 1}}, {Connersville, IN (COI): {'weight': 1}}, }
+Connersville, IN (COI)
+	{Cincinnati, OH - Union Terminal (CIN): {'weight': 1}}, {Indianapolis, IN (IND): {'weight': 1}}, }
+Indianapolis, IN (IND)
+	{Connersville, IN (COI): {'weight': 1}}, {Crawfordsville, IN (CRF): {'weight': 1}}, }
+Crawfordsville, IN (CRF)
+	{Indianapolis, IN (IND): {'weight': 1}}, {Lafayette, IN - Amtrak Station (LAF): {'weight': 1}}, }
+Lafayette, IN - Amtrak Station (LAF)
+	{Crawfordsville, IN (CRF): {'weight': 1}}, {Rensselaer, IN (REN): {'weight': 1}}, }
+Rensselaer, IN (REN)
+	{Lafayette, IN - Amtrak Station (LAF): {'weight': 1}}, {Dyer, IN (DYE): {'weight': 1}}, }
+Dyer, IN (DYE)
+	{Chicago, IL - Union Station (CHI): {'weight': 1}}, {Rensselaer, IN (REN): {'weight': 1}}, }
+Quantico, VA (QAN)
+	{Alexandria, VA (ALX): {'weight': 1}}, {Fredericksburg, VA (FBG): {'weight': 2}}, {Woodbridge, VA (WDB): {'weight': 1}}, }
+Fredericksburg, VA (FBG)
+	{Alexandria, VA (ALX): {'weight': 1}}, {Quantico, VA (QAN): {'weight': 2}}, {Richmond, VA - Staples Mill Road Station (RVR): {'weight': 2}}, {Ashland, VA (ASD): {'weight': 1}}, }
+Richmond, VA - Staples Mill Road Station (RVR)
+	{Fredericksburg, VA (FBG): {'weight': 2}}, {Petersburg, VA (PTB): {'weight': 3}}, {Ashland, VA (ASD): {'weight': 1}}, }
+Petersburg, VA (PTB)
+	{Richmond, VA - Staples Mill Road Station (RVR): {'weight': 3}}, {Rocky Mount, NC (RMT): {'weight': 2}}, {Norfolk, VA (NFK): {'weight': 1}}, }
+Rocky Mount, NC (RMT)
+	{Petersburg, VA (PTB): {'weight': 2}}, {Wilson, NC (WLN): {'weight': 2}}, }
+Wilson, NC (WLN)
+	{Rocky Mount, NC (RMT): {'weight': 2}}, {Selma-Smithfield, NC (SSM): {'weight': 2}}, }
+Selma-Smithfield, NC (SSM)
+	{Wilson, NC (WLN): {'weight': 2}}, {Raleigh, NC - Union Station (RGH): {'weight': 2}}, }
+Raleigh, NC - Union Station (RGH)
+	{Selma-Smithfield, NC (SSM): {'weight': 2}}, {Cary, NC (CYN): {'weight': 1}}, {Fayetteville, NC (FAY): {'weight': 1}}, }
+Cary, NC (CYN)
+	{Raleigh, NC - Union Station (RGH): {'weight': 1}}, {Durham, NC (DNC): {'weight': 1}}, {Yemassee, SC (YEM): {'weight': 1}}, {Southern Pines, NC (SOP): {'weight': 1}}, }
+Durham, NC (DNC)
+	{Cary, NC (CYN): {'weight': 1}}, {Burlington, NC (BNC): {'weight': 1}}, }
+Burlington, NC (BNC)
+	{Durham, NC (DNC): {'weight': 1}}, {Greensboro, NC (GRO): {'weight': 1}}, }
+Greensboro, NC (GRO)
+	{Burlington, NC (BNC): {'weight': 1}}, {High Point, NC (HPT): {'weight': 2}}, {Danville, VA (DAN): {'weight': 1}}, }
+High Point, NC (HPT)
+	{Greensboro, NC (GRO): {'weight': 2}}, {Salisbury, NC (SAL): {'weight': 2}}, }
+Salisbury, NC (SAL)
+	{High Point, NC (HPT): {'weight': 2}}, {Kannapolis, NC (KAN): {'weight': 1}}, {Charlotte, NC (CLT): {'weight': 1}}, }
+Kannapolis, NC (KAN)
+	{Salisbury, NC (SAL): {'weight': 1}}, {Charlotte, NC (CLT): {'weight': 1}}, }
+Charlotte, NC (CLT)
+	{Salisbury, NC (SAL): {'weight': 1}}, {Kannapolis, NC (KAN): {'weight': 1}}, {Gastonia, NC (GAS): {'weight': 1}}, }
+Homewood, IL (HMW)
+	{Chicago, IL - Union Station (CHI): {'weight': 1}}, {Kankakee, IL (KKI): {'weight': 2}}, {Quincy, IL (QCY): {'weight': 1}}, }
+Kankakee, IL (KKI)
+	{Homewood, IL (HMW): {'weight': 2}}, {Champaign-Urbana, IL (CHM): {'weight': 1}}, {Gilman, IL (GLM): {'weight': 1}}, }
+Champaign-Urbana, IL (CHM)
+	{Kankakee, IL (KKI): {'weight': 1}}, {Mattoon, IL (MAT): {'weight': 2}}, {Rantoul, IL (RTL): {'weight': 1}}, }
+Mattoon, IL (MAT)
+	{Champaign-Urbana, IL (CHM): {'weight': 2}}, {Effingham, IL (EFG): {'weight': 2}}, }
+Effingham, IL (EFG)
+	{Mattoon, IL (MAT): {'weight': 2}}, {Centralia, IL (CEN): {'weight': 2}}, }
+Centralia, IL (CEN)
+	{Effingham, IL (EFG): {'weight': 2}}, {Carbondale, IL (CDL): {'weight': 1}}, {Du Quoin, IL (DQN): {'weight': 1}}, }
+Carbondale, IL (CDL)
+	{Centralia, IL (CEN): {'weight': 1}}, {Fulton, KY (FTN): {'weight': 1}}, {Du Quoin, IL (DQN): {'weight': 1}}, {Dwight, IL (DWT): {'weight': 1}}, }
+Fulton, KY (FTN)
+	{Carbondale, IL (CDL): {'weight': 1}}, {Newbern-Dyersburg, TN (NBN): {'weight': 1}}, }
+Newbern-Dyersburg, TN (NBN)
+	{Fulton, KY (FTN): {'weight': 1}}, {Memphis, TN - Central Station (MEM): {'weight': 1}}, }
+Memphis, TN - Central Station (MEM)
+	{Newbern-Dyersburg, TN (NBN): {'weight': 1}}, {Marks, MS (MKS): {'weight': 1}}, }
+Marks, MS (MKS)
+	{Memphis, TN - Central Station (MEM): {'weight': 1}}, {Greenwood, MS (GWD): {'weight': 1}}, }
+Greenwood, MS (GWD)
+	{Marks, MS (MKS): {'weight': 1}}, {Yazoo City, MS (YAZ): {'weight': 1}}, }
+Yazoo City, MS (YAZ)
+	{Greenwood, MS (GWD): {'weight': 1}}, {Jackson, MS (JAN): {'weight': 1}}, }
+Jackson, MS (JAN)
+	{Yazoo City, MS (YAZ): {'weight': 1}}, {Hazlehurst, MS (HAZ): {'weight': 1}}, }
+Hazlehurst, MS (HAZ)
+	{Jackson, MS (JAN): {'weight': 1}}, {Brookhaven, MS (BRH): {'weight': 1}}, }
+Brookhaven, MS (BRH)
+	{Hazlehurst, MS (HAZ): {'weight': 1}}, {McComb, MS (MCB): {'weight': 1}}, }
+McComb, MS (MCB)
+	{Brookhaven, MS (BRH): {'weight': 1}}, {Hammond, LA (HMD): {'weight': 1}}, }
+Hammond, LA (HMD)
+	{McComb, MS (MCB): {'weight': 1}}, {New Orleans, LA - Union Passenger Terminal (NOL): {'weight': 1}}, }
+New Orleans, LA - Union Passenger Terminal (NOL)
+	{Hammond, LA (HMD): {'weight': 1}}, {Schriever, LA (SCH): {'weight': 1}}, }
+Chemult, OR (CMO)
+	{Eugene, OR - Amtrak Station (EUG): {'weight': 1}}, {Klamath Falls, OR (KFS): {'weight': 1}}, }
+Klamath Falls, OR (KFS)
+	{Chemult, OR (CMO): {'weight': 1}}, {Dunsmuir, CA (DUN): {'weight': 1}}, }
+Dunsmuir, CA (DUN)
+	{Klamath Falls, OR (KFS): {'weight': 1}}, {Redding, CA - Amtrak Station (RDD): {'weight': 1}}, }
+Redding, CA - Amtrak Station (RDD)
+	{Dunsmuir, CA (DUN): {'weight': 1}}, {Chico, CA (CIC): {'weight': 1}}, }
+Chico, CA (CIC)
+	{Sacramento, CA - Sacramento Valley Station (SAC): {'weight': 1}}, {Redding, CA - Amtrak Station (RDD): {'weight': 1}}, }
+Salinas, CA - Amtrak Station (SNS)
+	{San Jose, CA - Diridon Station (SJC): {'weight': 1}}, {Paso Robles, CA (PRB): {'weight': 1}}, }
+Paso Robles, CA (PRB)
+	{Salinas, CA - Amtrak Station (SNS): {'weight': 1}}, {San Luis Obispo, CA - Amtrak Station (SLO): {'weight': 1}}, }
+San Luis Obispo, CA - Amtrak Station (SLO)
+	{Paso Robles, CA (PRB): {'weight': 1}}, {Santa Barbara, CA (SBA): {'weight': 1}}, {Grover Beach, CA (GVB): {'weight': 1}}, }
+Santa Barbara, CA (SBA)
+	{San Luis Obispo, CA - Amtrak Station (SLO): {'weight': 1}}, {Oxnard, CA (OXN): {'weight': 1}}, {Goleta, CA (GTA): {'weight': 1}}, {Carpinteria, CA (CPN): {'weight': 1}}, }
+Oxnard, CA (OXN)
+	{Santa Barbara, CA (SBA): {'weight': 1}}, {Simi Valley, CA (SIM): {'weight': 1}}, {Ventura, CA (VEC): {'weight': 1}}, {Camarillo, CA (CML): {'weight': 1}}, }
+Simi Valley, CA (SIM)
+	{Oxnard, CA (OXN): {'weight': 1}}, {Van Nuys, CA (VNC): {'weight': 1}}, {Moorpark, CA (MPK): {'weight': 1}}, {Chatsworth, CA (CWT): {'weight': 1}}, }
+Van Nuys, CA (VNC)
+	{Simi Valley, CA (SIM): {'weight': 1}}, {Burbank, CA (BUR): {'weight': 2}}, {Northridge, CA (NRG): {'weight': 1}}, }
+Burbank, CA (BUR)
+	{Van Nuys, CA (VNC): {'weight': 2}}, {Los Angeles, CA - Union Station (LAX): {'weight': 1}}, {Burbank, CA - Downtown (BBK): {'weight': 1}}, }
+Los Angeles, CA - Union Station (LAX)
+	{Burbank, CA (BUR): {'weight': 1}}, {Glendale, CA (GDL): {'weight': 1}}, {Fullerton, CA (FUL): {'weight': 2}}, {Pomona, CA (POS): {'weight': 2}}, }
+Lynchburg, VA (LYH)
+	{Charlottesville, VA (CVS): {'weight': 2}}, {Danville, VA (DAN): {'weight': 1}}, {Roanoke, VA (RNK): {'weight': 1}}, }
+Danville, VA (DAN)
+	{Greensboro, NC (GRO): {'weight': 1}}, {Lynchburg, VA (LYH): {'weight': 1}}, }
+Gastonia, NC (GAS)
+	{Charlotte, NC (CLT): {'weight': 1}}, {Spartanburg, SC (SPB): {'weight': 1}}, }
+Spartanburg, SC (SPB)
+	{Gastonia, NC (GAS): {'weight': 1}}, {Greenville, SC (GRV): {'weight': 1}}, }
+Greenville, SC (GRV)
+	{Spartanburg, SC (SPB): {'weight': 1}}, {Clemson, SC (CSN): {'weight': 1}}, }
+Clemson, SC (CSN)
+	{Greenville, SC (GRV): {'weight': 1}}, {Toccoa, GA (TCA): {'weight': 1}}, }
+Toccoa, GA (TCA)
+	{Clemson, SC (CSN): {'weight': 1}}, {Gainesville, GA (GNS): {'weight': 1}}, }
+Gainesville, GA (GNS)
+	{Toccoa, GA (TCA): {'weight': 1}}, {Atlanta, GA (ATL): {'weight': 1}}, }
+Atlanta, GA (ATL)
+	{Gainesville, GA (GNS): {'weight': 1}}, {Anniston, AL (ATN): {'weight': 1}}, }
+Anniston, AL (ATN)
+	{Atlanta, GA (ATL): {'weight': 1}}, {Birmingham, AL (BHM): {'weight': 1}}, }
+Birmingham, AL (BHM)
+	{Anniston, AL (ATN): {'weight': 1}}, {Tuscaloosa, AL (TCL): {'weight': 1}}, }
+Tuscaloosa, AL (TCL)
+	{Birmingham, AL (BHM): {'weight': 1}}, {Meridian, MS - Union Station (MEI): {'weight': 1}}, }
+Meridian, MS - Union Station (MEI)
+	{Tuscaloosa, AL (TCL): {'weight': 1}}, {Laurel, MS (LAU): {'weight': 1}}, }
+Laurel, MS (LAU)
+	{Meridian, MS - Union Station (MEI): {'weight': 1}}, {Hattiesburg, MS (HBG): {'weight': 1}}, }
+Hattiesburg, MS (HBG)
+	{Laurel, MS (LAU): {'weight': 1}}, {Picayune, MS (PIC): {'weight': 1}}, }
+Picayune, MS (PIC)
+	{Hattiesburg, MS (HBG): {'weight': 1}}, }
+Brunswick, ME (BRK)
+	{Freeport, ME (FRE): {'weight': 1}}, }
+Freeport, ME (FRE)
+	{Brunswick, ME (BRK): {'weight': 1}}, {Portland, ME (POR): {'weight': 1}}, }
+Portland, ME (POR)
+	{Freeport, ME (FRE): {'weight': 1}}, {Old Orchard Beach, ME (ORB): {'weight': 1}}, }
+Old Orchard Beach, ME (ORB)
+	{Portland, ME (POR): {'weight': 1}}, {Saco, ME (SAO): {'weight': 1}}, }
+Saco, ME (SAO)
+	{Old Orchard Beach, ME (ORB): {'weight': 1}}, {Wells, ME (WEM): {'weight': 1}}, }
+Wells, ME (WEM)
+	{Saco, ME (SAO): {'weight': 1}}, {Dover, NH (DOV): {'weight': 1}}, }
+Dover, NH (DOV)
+	{Wells, ME (WEM): {'weight': 1}}, {Durham, NH (DHM): {'weight': 1}}, }
+Durham, NH (DHM)
+	{Dover, NH (DOV): {'weight': 1}}, {Exeter, NH (EXR): {'weight': 1}}, }
+Exeter, NH (EXR)
+	{Durham, NH (DHM): {'weight': 1}}, {Haverhill, MA (HHL): {'weight': 1}}, }
+Haverhill, MA (HHL)
+	{Exeter, NH (EXR): {'weight': 1}}, {Woburn, MA (WOB): {'weight': 1}}, }
+Woburn, MA (WOB)
+	{Haverhill, MA (HHL): {'weight': 1}}, {Boston, MA - North Station (BON): {'weight': 1}}, }
+Boston, MA - North Station (BON)
+	{Woburn, MA (WOB): {'weight': 1}}, }
+Glenview, IL (GLN)
+	{Chicago, IL - Union Station (CHI): {'weight': 2}}, {Milwaukee, WI - Downtown (MKE): {'weight': 1}}, {Sturtevant, WI (SVT): {'weight': 1}}, }
+Milwaukee, WI - Downtown (MKE)
+	{Glenview, IL (GLN): {'weight': 1}}, {Columbus, WI (CBS): {'weight': 1}}, {Milwaukee, WI - General Mitchell Airport Trains (MKA): {'weight': 1}}, }
+Columbus, WI (CBS)
+	{Milwaukee, WI - Downtown (MKE): {'weight': 1}}, {Portage, WI (POG): {'weight': 1}}, }
+Portage, WI (POG)
+	{Columbus, WI (CBS): {'weight': 1}}, {Wisconsin Dells, WI (WDL): {'weight': 1}}, }
+Wisconsin Dells, WI (WDL)
+	{Portage, WI (POG): {'weight': 1}}, {Tomah, WI (TOH): {'weight': 1}}, }
+Tomah, WI (TOH)
+	{Wisconsin Dells, WI (WDL): {'weight': 1}}, {La Crosse, WI - Amtrak Station (LSE): {'weight': 1}}, }
+La Crosse, WI - Amtrak Station (LSE)
+	{Tomah, WI (TOH): {'weight': 1}}, {Winona, MN (WIN): {'weight': 1}}, }
+Winona, MN (WIN)
+	{La Crosse, WI - Amtrak Station (LSE): {'weight': 1}}, {Red Wing, MN (RDW): {'weight': 1}}, }
+Red Wing, MN (RDW)
+	{Winona, MN (WIN): {'weight': 1}}, {St. Paul-Minneapolis, MN - Union Depot (MSP): {'weight': 1}}, }
+St. Paul-Minneapolis, MN - Union Depot (MSP)
+	{Red Wing, MN (RDW): {'weight': 1}}, {St. Cloud, MN (SCD): {'weight': 1}}, }
+St. Cloud, MN (SCD)
+	{St. Paul-Minneapolis, MN - Union Depot (MSP): {'weight': 1}}, {Staples, MN (SPL): {'weight': 1}}, }
+Staples, MN (SPL)
+	{St. Cloud, MN (SCD): {'weight': 1}}, {Detroit Lakes, MN (DLK): {'weight': 1}}, }
+Detroit Lakes, MN (DLK)
+	{Staples, MN (SPL): {'weight': 1}}, {Fargo, ND (FAR): {'weight': 1}}, }
+Fargo, ND (FAR)
+	{Detroit Lakes, MN (DLK): {'weight': 1}}, {Grand Forks, ND (GFK): {'weight': 1}}, }
+Grand Forks, ND (GFK)
+	{Fargo, ND (FAR): {'weight': 1}}, {Devils Lake, ND (DVL): {'weight': 1}}, }
+Devils Lake, ND (DVL)
+	{Grand Forks, ND (GFK): {'weight': 1}}, {Rugby, ND (RUG): {'weight': 1}}, }
+Rugby, ND (RUG)
+	{Devils Lake, ND (DVL): {'weight': 1}}, {Minot, ND (MOT): {'weight': 1}}, }
+Minot, ND (MOT)
+	{Rugby, ND (RUG): {'weight': 1}}, {Stanley, ND (STN): {'weight': 1}}, }
+Stanley, ND (STN)
+	{Minot, ND (MOT): {'weight': 1}}, {Williston, ND (WTN): {'weight': 1}}, }
+Williston, ND (WTN)
+	{Stanley, ND (STN): {'weight': 1}}, {Wolf Point, MT (WPT): {'weight': 1}}, }
+Wolf Point, MT (WPT)
+	{Williston, ND (WTN): {'weight': 1}}, {Glasgow, MT (GGW): {'weight': 1}}, }
+Glasgow, MT (GGW)
+	{Wolf Point, MT (WPT): {'weight': 1}}, {Malta, MT (MAL): {'weight': 1}}, }
+Malta, MT (MAL)
+	{Glasgow, MT (GGW): {'weight': 1}}, {Havre, MT (HAV): {'weight': 1}}, }
+Havre, MT (HAV)
+	{Malta, MT (MAL): {'weight': 1}}, {Shelby, MT (SBY): {'weight': 1}}, }
+Shelby, MT (SBY)
+	{Havre, MT (HAV): {'weight': 1}}, {Cut Bank, MT (CUT): {'weight': 1}}, }
+Cut Bank, MT (CUT)
+	{Shelby, MT (SBY): {'weight': 1}}, {Browning, MT (BRO): {'weight': 1}}, }
+Browning, MT (BRO)
+	{Cut Bank, MT (CUT): {'weight': 1}}, {East Glacier Park, MT (GPK): {'weight': 1}}, }
+East Glacier Park, MT (GPK)
+	{Browning, MT (BRO): {'weight': 1}}, {Essex, MT (ESM): {'weight': 1}}, }
+Essex, MT (ESM)
+	{East Glacier Park, MT (GPK): {'weight': 1}}, {West Glacier, MT (WGL): {'weight': 1}}, }
+West Glacier, MT (WGL)
+	{Essex, MT (ESM): {'weight': 1}}, {Whitefish, MT (WFH): {'weight': 1}}, }
+Whitefish, MT (WFH)
+	{West Glacier, MT (WGL): {'weight': 1}}, {Libby, MT (LIB): {'weight': 1}}, }
+Libby, MT (LIB)
+	{Whitefish, MT (WFH): {'weight': 1}}, {Sandpoint, ID (SPT): {'weight': 1}}, }
+Sandpoint, ID (SPT)
+	{Libby, MT (LIB): {'weight': 1}}, {Spokane, WA - Amtrak Station (SPK): {'weight': 1}}, }
+Spokane, WA - Amtrak Station (SPK)
+	{Sandpoint, ID (SPT): {'weight': 1}}, {Pasco, WA (PSC): {'weight': 1}}, }
+Pasco, WA (PSC)
+	{Spokane, WA - Amtrak Station (SPK): {'weight': 1}}, {Wishram, WA (WIH): {'weight': 1}}, }
+Wishram, WA (WIH)
+	{Pasco, WA (PSC): {'weight': 1}}, {Bingen-White Salmon, WA (BNG): {'weight': 1}}, }
+Bingen-White Salmon, WA (BNG)
+	{Vancouver, WA (VAN): {'weight': 1}}, {Wishram, WA (WIH): {'weight': 1}}, }
+Ephrata, WA (EPH)
+	{Portland, OR - Union Station (PDX): {'weight': 1}}, {Wenatchee, WA - Amtrak Station (WEN): {'weight': 1}}, }
+Wenatchee, WA - Amtrak Station (WEN)
+	{Ephrata, WA (EPH): {'weight': 1}}, {Leavenworth, WA - Icicle Station (LWA): {'weight': 1}}, }
+Leavenworth, WA - Icicle Station (LWA)
+	{Everett, WA (EVR): {'weight': 1}}, {Wenatchee, WA - Amtrak Station (WEN): {'weight': 1}}, }
+Niagara Falls, NY (NFL)
+	{Buffalo, NY - Exchange Street Station (BFX): {'weight': 2}}, {Niagara Falls, ON (NFS): {'weight': 1}}, }
+Buffalo, NY - Exchange Street Station (BFX)
+	{Niagara Falls, NY (NFL): {'weight': 2}}, {Buffalo, NY - Depew Station (BUF): {'weight': 2}}, }
+Buffalo, NY - Depew Station (BUF)
+	{Buffalo, NY - Exchange Street Station (BFX): {'weight': 2}}, {Rochester, NY - Louise M. Slaughter Station (ROC): {'weight': 3}}, {Erie, PA (ERI): {'weight': 1}}, }
+Rochester, NY - Louise M. Slaughter Station (ROC)
+	{Buffalo, NY - Depew Station (BUF): {'weight': 3}}, {Syracuse, NY - Regional Transportation Center (SYR): {'weight': 3}}, }
+Syracuse, NY - Regional Transportation Center (SYR)
+	{Rochester, NY - Louise M. Slaughter Station (ROC): {'weight': 3}}, {Rome, NY (ROM): {'weight': 2}}, {Utica, NY (UCA): {'weight': 1}}, }
+Rome, NY (ROM)
+	{Syracuse, NY - Regional Transportation Center (SYR): {'weight': 2}}, {Utica, NY (UCA): {'weight': 2}}, }
+Utica, NY (UCA)
+	{Schenectady, NY (SDY): {'weight': 1}}, {Syracuse, NY - Regional Transportation Center (SYR): {'weight': 1}}, {Rome, NY (ROM): {'weight': 2}}, {Amsterdam, NY (AMS): {'weight': 2}}, }
+Amsterdam, NY (AMS)
+	{Schenectady, NY (SDY): {'weight': 2}}, {Utica, NY (UCA): {'weight': 2}}, }
+New York, NY - Penn Station (NYP)
+	{Newark, NJ - Penn Station (NWK): {'weight': 2}}, {Yonkers, NY (YNY): {'weight': 2}}, }
+Burlington, VT - Union Station (BTN)
+	{Ferrisburgh-Vergennes, VT (VRN): {'weight': 1}}, }
+Ferrisburgh-Vergennes, VT (VRN)
+	{Burlington, VT - Union Station (BTN): {'weight': 1}}, {Middlebury, VT - Amtrak Station (MBY): {'weight': 1}}, }
+Middlebury, VT - Amtrak Station (MBY)
+	{Ferrisburgh-Vergennes, VT (VRN): {'weight': 1}}, {Rutland, VT - James M. Jeffords Station (RUD): {'weight': 1}}, }
+Rutland, VT - James M. Jeffords Station (RUD)
+	{Middlebury, VT - Amtrak Station (MBY): {'weight': 1}}, {Castleton, VT (CNV): {'weight': 1}}, }
+Castleton, VT (CNV)
+	{Fort Edward, NY (FED): {'weight': 1}}, {Rutland, VT - James M. Jeffords Station (RUD): {'weight': 1}}, }
+Oklahoma City, OK (OKC)
+	{Norman, OK (NOR): {'weight': 1}}, }
+Norman, OK (NOR)
+	{Oklahoma City, OK (OKC): {'weight': 1}}, {Purcell, OK (PUR): {'weight': 1}}, }
+Purcell, OK (PUR)
+	{Norman, OK (NOR): {'weight': 1}}, {Pauls Valley, OK (PVL): {'weight': 1}}, }
+Pauls Valley, OK (PVL)
+	{Purcell, OK (PUR): {'weight': 1}}, {Ardmore, OK (ADM): {'weight': 1}}, }
+Ardmore, OK (ADM)
+	{Pauls Valley, OK (PVL): {'weight': 1}}, {Gainesville, TX (GLE): {'weight': 1}}, }
+Gainesville, TX (GLE)
+	{Ardmore, OK (ADM): {'weight': 1}}, {Fort Worth, TX (FTW): {'weight': 1}}, }
+Fort Worth, TX (FTW)
+	{Gainesville, TX (GLE): {'weight': 1}}, {Dallas, TX - Eddie Bernice Johnson Union Station (DAL): {'weight': 1}}, {Cleburne, TX (CBR): {'weight': 1}}, }
+Milwaukee, WI - General Mitchell Airport Trains (MKA)
+	{Milwaukee, WI - Downtown (MKE): {'weight': 1}}, {Sturtevant, WI (SVT): {'weight': 1}}, }
+Sturtevant, WI (SVT)
+	{Glenview, IL (GLN): {'weight': 1}}, {Milwaukee, WI - General Mitchell Airport Trains (MKA): {'weight': 1}}, }
+Summit, IL (SMT)
+	{Chicago, IL - Union Station (CHI): {'weight': 2}}, {Joliet, IL (JOL): {'weight': 2}}, }
+Joliet, IL (JOL)
+	{Chicago, IL - Union Station (CHI): {'weight': 1}}, {Summit, IL (SMT): {'weight': 2}}, {La Grange, IL (LAG): {'weight': 1}}, {Dwight, IL (DWT): {'weight': 1}}, {Pontiac, IL (PON): {'weight': 1}}, }
+La Grange, IL (LAG)
+	{Naperville, IL (NPV): {'weight': 1}}, {Joliet, IL (JOL): {'weight': 1}}, }
+Plano, IL (PLO)
+	{Naperville, IL (NPV): {'weight': 1}}, {Mendota, IL (MDT): {'weight': 1}}, }
+Mendota, IL (MDT)
+	{Naperville, IL (NPV): {'weight': 1}}, {Princeton, IL (PCT): {'weight': 2}}, {Plano, IL (PLO): {'weight': 1}}, }
+Kewanee, IL (KEE)
+	{Princeton, IL (PCT): {'weight': 1}}, {Galesburg, IL (GBB): {'weight': 1}}, }
+Macomb, IL (MAC)
+	{Galesburg, IL (GBB): {'weight': 1}}, {Quincy, IL (QCY): {'weight': 1}}, }
+Quincy, IL (QCY)
+	{Homewood, IL (HMW): {'weight': 1}}, {Macomb, IL (MAC): {'weight': 1}}, }
+Gilman, IL (GLM)
+	{Kankakee, IL (KKI): {'weight': 1}}, {Rantoul, IL (RTL): {'weight': 1}}, }
+Rantoul, IL (RTL)
+	{Champaign-Urbana, IL (CHM): {'weight': 1}}, {Gilman, IL (GLM): {'weight': 1}}, }
+Du Quoin, IL (DQN)
+	{Centralia, IL (CEN): {'weight': 1}}, {Carbondale, IL (CDL): {'weight': 1}}, }
+Dwight, IL (DWT)
+	{Carbondale, IL (CDL): {'weight': 1}}, {Joliet, IL (JOL): {'weight': 1}}, {Pontiac, IL (PON): {'weight': 2}}, }
+Pontiac, IL (PON)
+	{Joliet, IL (JOL): {'weight': 1}}, {Dwight, IL (DWT): {'weight': 2}}, {Bloomington-Normal, IL (BNL): {'weight': 3}}, }
+Bloomington-Normal, IL (BNL)
+	{Pontiac, IL (PON): {'weight': 3}}, {Lincoln, IL (LCN): {'weight': 3}}, }
+Lincoln, IL (LCN)
+	{Bloomington-Normal, IL (BNL): {'weight': 3}}, {Springfield, IL (SPI): {'weight': 3}}, }
+Springfield, IL (SPI)
+	{Lincoln, IL (LCN): {'weight': 3}}, {Carlinville, IL (CRV): {'weight': 3}}, }
+Carlinville, IL (CRV)
+	{Springfield, IL (SPI): {'weight': 3}}, {Alton, IL (ALN): {'weight': 3}}, }
+Alton, IL (ALN)
+	{Carlinville, IL (CRV): {'weight': 3}}, {St. Louis, MO - Gateway Station (STL): {'weight': 2}}, }
+Harrisburg, PA (HAR)
+	{Middletown, PA (MID): {'weight': 1}}, {Elizabethtown, PA (ELT): {'weight': 1}}, {Lewistown, PA - Amtrak Station (LEW): {'weight': 1}}, }
+Middletown, PA (MID)
+	{Harrisburg, PA (HAR): {'weight': 1}}, {Elizabethtown, PA (ELT): {'weight': 1}}, }
+Elizabethtown, PA (ELT)
+	{Harrisburg, PA (HAR): {'weight': 1}}, {Middletown, PA (MID): {'weight': 1}}, {Mount Joy, PA (MJY): {'weight': 1}}, {Lancaster, PA (LNC): {'weight': 1}}, }
+Mount Joy, PA (MJY)
+	{Elizabethtown, PA (ELT): {'weight': 1}}, {Lancaster, PA (LNC): {'weight': 1}}, }
+Lancaster, PA (LNC)
+	{Elizabethtown, PA (ELT): {'weight': 1}}, {Mount Joy, PA (MJY): {'weight': 1}}, {Parkesburg, PA (PAR): {'weight': 1}}, {Exton, PA (EXT): {'weight': 1}}, }
+Parkesburg, PA (PAR)
+	{Lancaster, PA (LNC): {'weight': 1}}, {Coatesville, PA (COT): {'weight': 1}}, }
+Coatesville, PA (COT)
+	{Parkesburg, PA (PAR): {'weight': 1}}, {Downingtown, PA (DOW): {'weight': 1}}, }
+Downingtown, PA (DOW)
+	{Coatesville, PA (COT): {'weight': 1}}, {Exton, PA (EXT): {'weight': 1}}, }
+Exton, PA (EXT)
+	{Lancaster, PA (LNC): {'weight': 1}}, {Downingtown, PA (DOW): {'weight': 1}}, {Paoli, PA (PAO): {'weight': 2}}, }
+Paoli, PA (PAO)
+	{Exton, PA (EXT): {'weight': 2}}, {Ardmore, PA (ARD): {'weight': 2}}, }
+Ardmore, PA (ARD)
+	{Philadelphia, PA - William H. Gray III 30th St. Station (PHL): {'weight': 2}}, {Paoli, PA (PAO): {'weight': 2}}, }
+North Philadelphia, PA (PHN)
+	{Philadelphia, PA - William H. Gray III 30th St. Station (PHL): {'weight': 3}}, {Cornwells Heights, PA (CWH): {'weight': 3}}, }
+Cornwells Heights, PA (CWH)
+	{Trenton, NJ (TRE): {'weight': 3}}, {North Philadelphia, PA (PHN): {'weight': 3}}, }
+Princeton Junction, NJ (PJC)
+	{Trenton, NJ (TRE): {'weight': 3}}, {New Brunswick, NJ (NBK): {'weight': 3}}, }
+New Brunswick, NJ (NBK)
+	{Metropark, NJ (MET): {'weight': 3}}, {Princeton Junction, NJ (PJC): {'weight': 3}}, }
+Newark, NJ - Liberty International Airport (EWR)
+	{Newark, NJ - Penn Station (NWK): {'weight': 3}}, {Metropark, NJ (MET): {'weight': 3}}, }
+Bryan, OH (BYN)
+	{Toledo, OH (TOL): {'weight': 1}}, {Waterloo, IN (WTI): {'weight': 1}}, }
+Erie, PA (ERI)
+	{Cleveland, OH (CLE): {'weight': 1}}, {Buffalo, NY - Depew Station (BUF): {'weight': 1}}, }
+Worcester, MA - Union Station (WOR)
+	{Springfield, MA (SPG): {'weight': 1}}, {Framingham, MA (FRA): {'weight': 1}}, }
+Framingham, MA (FRA)
+	{Boston, MA - Back Bay Station (BBY): {'weight': 1}}, {Worcester, MA - Union Station (WOR): {'weight': 1}}, }
+St. Louis, MO - Gateway Station (STL)
+	{Alton, IL (ALN): {'weight': 2}}, {Kirkwood, MO (KWD): {'weight': 2}}, {Arcadia, MO (ACD): {'weight': 1}}, }
+Kirkwood, MO (KWD)
+	{St. Louis, MO - Gateway Station (STL): {'weight': 2}}, {Washington, MO (WAH): {'weight': 2}}, }
+Washington, MO (WAH)
+	{Kirkwood, MO (KWD): {'weight': 2}}, {Hermann, MO (HEM): {'weight': 2}}, }
+Hermann, MO (HEM)
+	{Washington, MO (WAH): {'weight': 2}}, {Jefferson City, MO (JEF): {'weight': 2}}, }
+Jefferson City, MO (JEF)
+	{Hermann, MO (HEM): {'weight': 2}}, {Sedalia, MO (SED): {'weight': 2}}, }
+Sedalia, MO (SED)
+	{Jefferson City, MO (JEF): {'weight': 2}}, {Warrensburg, MO (WAR): {'weight': 2}}, }
+Warrensburg, MO (WAR)
+	{Sedalia, MO (SED): {'weight': 2}}, {Lee's Summit, MO (LEE): {'weight': 2}}, }
+Lee's Summit, MO (LEE)
+	{Warrensburg, MO (WAR): {'weight': 2}}, {Independence, MO (IDP): {'weight': 2}}, }
+Independence, MO (IDP)
+	{Lee's Summit, MO (LEE): {'weight': 2}}, {Kansas City, MO - Union Station (KCY): {'weight': 2}}, }
+Kansas City, MO - Union Station (KCY)
+	{Independence, MO (IDP): {'weight': 2}}, {La Plata, MO (LAP): {'weight': 1}}, {Lawrence, KS (LRC): {'weight': 1}}, }
+Niagara Falls, ON (NFS)
+	{Niagara Falls, NY (NFL): {'weight': 1}}, {St. Catharines, ON (SCA): {'weight': 1}}, }
+St. Catharines, ON (SCA)
+	{Niagara Falls, ON (NFS): {'weight': 1}}, {Grimsby, ON (GMS): {'weight': 1}}, }
+Grimsby, ON (GMS)
+	{St. Catharines, ON (SCA): {'weight': 1}}, {Aldershot, ON (AST): {'weight': 1}}, }
+Aldershot, ON (AST)
+	{Grimsby, ON (GMS): {'weight': 1}}, {Oakville, ON (OKL): {'weight': 1}}, }
+Oakville, ON (OKL)
+	{Aldershot, ON (AST): {'weight': 1}}, {Toronto, ON - Union Station (TWO): {'weight': 1}}, }
+Toronto, ON - Union Station (TWO)
+	{Oakville, ON (OKL): {'weight': 1}}, }
+Hammond-Whiting, IN (HMI)
+	{Chicago, IL - Union Station (CHI): {'weight': 1}}, {Michigan City, IN (MCI): {'weight': 1}}, }
+Michigan City, IN (MCI)
+	{Hammond-Whiting, IN (HMI): {'weight': 1}}, {New Buffalo, MI (NBU): {'weight': 1}}, }
+New Buffalo, MI (NBU)
+	{Michigan City, IN (MCI): {'weight': 1}}, {Niles, MI (NLS): {'weight': 1}}, }
+Niles, MI (NLS)
+	{New Buffalo, MI (NBU): {'weight': 1}}, {Dowagiac, MI (DOA): {'weight': 1}}, }
+Dowagiac, MI (DOA)
+	{Niles, MI (NLS): {'weight': 1}}, {Kalamazoo, MI (KAL): {'weight': 1}}, }
+Kalamazoo, MI (KAL)
+	{Dowagiac, MI (DOA): {'weight': 1}}, {Battle Creek, MI (BTL): {'weight': 1}}, }
+Battle Creek, MI (BTL)
+	{Kalamazoo, MI (KAL): {'weight': 1}}, {East Lansing, MI (LNS): {'weight': 1}}, }
+East Lansing, MI (LNS)
+	{Battle Creek, MI (BTL): {'weight': 1}}, {Durand, MI (DRD): {'weight': 1}}, }
+Durand, MI (DRD)
+	{East Lansing, MI (LNS): {'weight': 1}}, {Flint, MI (FLN): {'weight': 1}}, }
+Flint, MI (FLN)
+	{Durand, MI (DRD): {'weight': 1}}, {Lapeer, MI (LPE): {'weight': 1}}, }
+Lapeer, MI (LPE)
+	{Flint, MI (FLN): {'weight': 1}}, {Port Huron, MI (PTH): {'weight': 1}}, }
+Port Huron, MI (PTH)
+	{Lapeer, MI (LPE): {'weight': 1}}, {St. Joseph-Benton Harbor, MI (SJM): {'weight': 1}}, }
+St. Joseph-Benton Harbor, MI (SJM)
+	{Port Huron, MI (PTH): {'weight': 1}}, {Bangor, MI (BAM): {'weight': 1}}, }
+Bangor, MI (BAM)
+	{St. Joseph-Benton Harbor, MI (SJM): {'weight': 1}}, {Holland, MI (HOM): {'weight': 1}}, }
+Holland, MI (HOM)
+	{Bangor, MI (BAM): {'weight': 1}}, {Grand Rapids, MI (GRR): {'weight': 1}}, }
+Grand Rapids, MI (GRR)
+	{Holland, MI (HOM): {'weight': 1}}, {Albion, MI (ALI): {'weight': 1}}, }
+Albion, MI (ALI)
+	{Grand Rapids, MI (GRR): {'weight': 1}}, {Jackson, MI (JXN): {'weight': 1}}, }
+Jackson, MI (JXN)
+	{Albion, MI (ALI): {'weight': 1}}, {Ann Arbor, MI (ARB): {'weight': 1}}, }
+Ann Arbor, MI (ARB)
+	{Jackson, MI (JXN): {'weight': 1}}, {Dearborn, MI (DER): {'weight': 1}}, }
+Dearborn, MI (DER)
+	{Ann Arbor, MI (ARB): {'weight': 1}}, {Detroit, MI (DET): {'weight': 1}}, }
+Detroit, MI (DET)
+	{Dearborn, MI (DER): {'weight': 1}}, {Royal Oak, MI (ROY): {'weight': 1}}, }
+Royal Oak, MI (ROY)
+	{Detroit, MI (DET): {'weight': 1}}, {Troy, MI (TRM): {'weight': 1}}, }
+Troy, MI (TRM)
+	{Royal Oak, MI (ROY): {'weight': 1}}, {Pontiac, MI (PNT): {'weight': 1}}, }
+Pontiac, MI (PNT)
+	{Troy, MI (TRM): {'weight': 1}}, }
+Kingston, RI (KIN)
+	{Providence, RI - Amtrak/MBTA Station (PVD): {'weight': 1}}, {Westerly, RI (WLY): {'weight': 1}}, }
+Westerly, RI (WLY)
+	{Kingston, RI (KIN): {'weight': 1}}, {Mystic, CT (MYS): {'weight': 1}}, }
+Mystic, CT (MYS)
+	{Westerly, RI (WLY): {'weight': 1}}, {New London, CT - Union Station (NLC): {'weight': 1}}, }
+New London, CT - Union Station (NLC)
+	{Mystic, CT (MYS): {'weight': 1}}, {Old Saybrook, CT (OSB): {'weight': 1}}, }
+Old Saybrook, CT (OSB)
+	{Springfield, MA (SPG): {'weight': 1}}, {New London, CT - Union Station (NLC): {'weight': 1}}, }
+Bridgeport, CT (BRP)
+	{New Haven, CT - Union Station (NHV): {'weight': 2}}, {Stamford, CT (STM): {'weight': 2}}, }
+New Rochelle, NY (NRO)
+	{Stamford, CT (STM): {'weight': 1}}, {New York, NY - Moynihan Train Hall (NYP): {'weight': 1}}, }
+Newark, DE (NRK)
+	{Wilmington, DE (WIL): {'weight': 1}}, {Aberdeen, MD (ABE): {'weight': 1}}, }
+Aberdeen, MD (ABE)
+	{Wilmington, DE (WIL): {'weight': 1}}, {Baltimore, MD - Penn Station (BAL): {'weight': 2}}, {Newark, DE (NRK): {'weight': 1}}, }
+New Carrollton, MD (NCR)
+	{Baltimore, MD - BWI Thurgood Marshall Airport (BWI): {'weight': 3}}, {Washington, DC - Union Station (WAS): {'weight': 3}}, }
+Burke Centre, VA (BCV)
+	{Alexandria, VA (ALX): {'weight': 1}}, {Manassas, VA (MSS): {'weight': 1}}, }
+Roanoke, VA (RNK)
+	{Lynchburg, VA (LYH): {'weight': 1}}, {Woodbridge, VA (WDB): {'weight': 1}}, }
+Woodbridge, VA (WDB)
+	{Quantico, VA (QAN): {'weight': 1}}, {Roanoke, VA (RNK): {'weight': 1}}, }
+Ashland, VA (ASD)
+	{Fredericksburg, VA (FBG): {'weight': 1}}, {Richmond, VA - Staples Mill Road Station (RVR): {'weight': 1}}, }
+Norfolk, VA (NFK)
+	{Petersburg, VA (PTB): {'weight': 1}}, {Richmond, VA - Main Street Station (RVM): {'weight': 1}}, }
+Richmond, VA - Main Street Station (RVM)
+	{Norfolk, VA (NFK): {'weight': 1}}, {Williamsburg, VA (WBG): {'weight': 1}}, }
+Williamsburg, VA (WBG)
+	{Richmond, VA - Main Street Station (RVM): {'weight': 1}}, {Newport News, VA (NPN): {'weight': 1}}, }
+Newport News, VA (NPN)
+	{Williamsburg, VA (WBG): {'weight': 1}}, }
+Grover Beach, CA (GVB)
+	{San Luis Obispo, CA - Amtrak Station (SLO): {'weight': 1}}, {Guadalupe, CA (GUA): {'weight': 1}}, }
+Guadalupe, CA (GUA)
+	{Grover Beach, CA (GVB): {'weight': 1}}, {Lompoc-Surf, CA -Amtrak Station (LPS): {'weight': 1}}, }
+Lompoc-Surf, CA -Amtrak Station (LPS)
+	{Guadalupe, CA (GUA): {'weight': 1}}, {Goleta, CA (GTA): {'weight': 1}}, }
+Goleta, CA (GTA)
+	{Santa Barbara, CA (SBA): {'weight': 1}}, {Lompoc-Surf, CA -Amtrak Station (LPS): {'weight': 1}}, }
+Carpinteria, CA (CPN)
+	{Santa Barbara, CA (SBA): {'weight': 1}}, {Ventura, CA (VEC): {'weight': 1}}, }
+Ventura, CA (VEC)
+	{Oxnard, CA (OXN): {'weight': 1}}, {Carpinteria, CA (CPN): {'weight': 1}}, }
+Camarillo, CA (CML)
+	{Oxnard, CA (OXN): {'weight': 1}}, {Moorpark, CA (MPK): {'weight': 1}}, }
+Moorpark, CA (MPK)
+	{Simi Valley, CA (SIM): {'weight': 1}}, {Camarillo, CA (CML): {'weight': 1}}, }
+Chatsworth, CA (CWT)
+	{Simi Valley, CA (SIM): {'weight': 1}}, {Northridge, CA (NRG): {'weight': 1}}, }
+Northridge, CA (NRG)
+	{Van Nuys, CA (VNC): {'weight': 1}}, {Chatsworth, CA (CWT): {'weight': 1}}, }
+Burbank, CA - Downtown (BBK)
+	{Burbank, CA (BUR): {'weight': 1}}, {Glendale, CA (GDL): {'weight': 1}}, }
+Glendale, CA (GDL)
+	{Los Angeles, CA - Union Station (LAX): {'weight': 1}}, {Burbank, CA - Downtown (BBK): {'weight': 1}}, }
+Fullerton, CA (FUL)
+	{Los Angeles, CA - Union Station (LAX): {'weight': 2}}, {Anaheim, CA - Regional Trans.Intermodal Ctr. (ANA): {'weight': 1}}, {Riverside, CA (RIV): {'weight': 1}}, }
+Anaheim, CA - Regional Trans.Intermodal Ctr. (ANA)
+	{Fullerton, CA (FUL): {'weight': 1}}, {Santa Ana, CA (SNA): {'weight': 1}}, }
+Santa Ana, CA (SNA)
+	{Anaheim, CA - Regional Trans.Intermodal Ctr. (ANA): {'weight': 1}}, {Irvine, CA (IRV): {'weight': 1}}, }
+Irvine, CA (IRV)
+	{Santa Ana, CA (SNA): {'weight': 1}}, {San Juan Capistrano, CA (SNC): {'weight': 1}}, }
+San Juan Capistrano, CA (SNC)
+	{Irvine, CA (IRV): {'weight': 1}}, {San Clemente Pier, CA (SNP): {'weight': 1}}, }
+San Clemente Pier, CA (SNP)
+	{San Juan Capistrano, CA (SNC): {'weight': 1}}, {Oceanside, CA (OSD): {'weight': 1}}, }
+Oceanside, CA (OSD)
+	{San Clemente Pier, CA (SNP): {'weight': 1}}, {Solana Beach, CA (SOL): {'weight': 1}}, }
+Solana Beach, CA (SOL)
+	{Oceanside, CA (OSD): {'weight': 1}}, {San Diego, CA - Old Town Transportation Center (OLT): {'weight': 1}}, }
+San Diego, CA - Old Town Transportation Center (OLT)
+	{Solana Beach, CA (SOL): {'weight': 1}}, {San Diego, CA - Santa Fe Depot (SAN): {'weight': 1}}, }
+San Diego, CA - Santa Fe Depot (SAN)
+	{San Diego, CA - Old Town Transportation Center (OLT): {'weight': 1}}, }
+Lewistown, PA - Amtrak Station (LEW)
+	{Harrisburg, PA (HAR): {'weight': 1}}, {Huntingdon, PA (HGD): {'weight': 1}}, }
+Huntingdon, PA (HGD)
+	{Lewistown, PA - Amtrak Station (LEW): {'weight': 1}}, {Tyrone, PA (TYR): {'weight': 1}}, }
+Tyrone, PA (TYR)
+	{Huntingdon, PA (HGD): {'weight': 1}}, {Altoona, PA (ALT): {'weight': 1}}, }
+Altoona, PA (ALT)
+	{Tyrone, PA (TYR): {'weight': 1}}, {Johnstown, PA (JST): {'weight': 1}}, }
+Johnstown, PA (JST)
+	{Altoona, PA (ALT): {'weight': 1}}, {Latrobe, PA - Amtrak Station (LAB): {'weight': 1}}, }
+Latrobe, PA - Amtrak Station (LAB)
+	{Johnstown, PA (JST): {'weight': 1}}, {Greensburg, PA - Amtrak Station (GNB): {'weight': 1}}, }
+Greensburg, PA - Amtrak Station (GNB)
+	{Pittsburgh, PA - Union Station (PGH): {'weight': 1}}, {Latrobe, PA - Amtrak Station (LAB): {'weight': 1}}, }
+Lodi, CA (LOD)
+	{Sacramento, CA - Sacramento Valley Station (SAC): {'weight': 1}}, {Stockton, CA - Robert J. Cabral Station (SKT): {'weight': 1}}, }
+Stockton, CA - Robert J. Cabral Station (SKT)
+	{Oakland, CA - Jack London Square Station (OKJ): {'weight': 1}}, {Lodi, CA (LOD): {'weight': 1}}, }
+Antioch-Pittsburg, CA (ACA)
+	{Martinez, CA (MTZ): {'weight': 1}}, {Stockton, CA - San Joaquin Street Station (SKN): {'weight': 1}}, }
+Stockton, CA - San Joaquin Street Station (SKN)
+	{Antioch-Pittsburg, CA (ACA): {'weight': 1}}, {Modesto, CA (MOD): {'weight': 1}}, }
+Modesto, CA (MOD)
+	{Stockton, CA - San Joaquin Street Station (SKN): {'weight': 1}}, {Turlock-Denair, CA (TRK): {'weight': 1}}, }
+Turlock-Denair, CA (TRK)
+	{Modesto, CA (MOD): {'weight': 1}}, {Merced, CA (MCD): {'weight': 1}}, }
+Merced, CA (MCD)
+	{Turlock-Denair, CA (TRK): {'weight': 1}}, {Madera, CA (MDR): {'weight': 1}}, }
+Madera, CA (MDR)
+	{Merced, CA (MCD): {'weight': 1}}, {Fresno, CA (FNO): {'weight': 1}}, }
+Fresno, CA (FNO)
+	{Madera, CA (MDR): {'weight': 1}}, {Hanford, CA (HNF): {'weight': 1}}, }
+Hanford, CA (HNF)
+	{Fresno, CA (FNO): {'weight': 1}}, {Corcoran, CA (COC): {'weight': 1}}, }
+Corcoran, CA (COC)
+	{Hanford, CA (HNF): {'weight': 1}}, {Wasco, CA (WAC): {'weight': 1}}, }
+Wasco, CA (WAC)
+	{Corcoran, CA (COC): {'weight': 1}}, {Bakersfield, CA (BFD): {'weight': 1}}, }
+Bakersfield, CA (BFD)
+	{Wasco, CA (WAC): {'weight': 1}}, }
+Fayetteville, NC (FAY)
+	{Raleigh, NC - Union Station (RGH): {'weight': 1}}, {Dillon, SC (DIL): {'weight': 1}}, }
+Dillon, SC (DIL)
+	{Fayetteville, NC (FAY): {'weight': 1}}, {Florence, SC (FLO): {'weight': 1}}, }
+Florence, SC (FLO)
+	{Dillon, SC (DIL): {'weight': 1}}, {Kingstree, SC (KTR): {'weight': 1}}, }
+Kingstree, SC (KTR)
+	{Florence, SC (FLO): {'weight': 1}}, {Charleston, SC (CHS): {'weight': 1}}, }
+Charleston, SC (CHS)
+	{Kingstree, SC (KTR): {'weight': 1}}, {Yemassee, SC (YEM): {'weight': 1}}, }
+Yemassee, SC (YEM)
+	{Cary, NC (CYN): {'weight': 1}}, {Charleston, SC (CHS): {'weight': 1}}, }
+Southern Pines, NC (SOP)
+	{Cary, NC (CYN): {'weight': 1}}, {Hamlet, NC (HAM): {'weight': 1}}, }
+Hamlet, NC (HAM)
+	{Southern Pines, NC (SOP): {'weight': 1}}, {Camden, SC (CAM): {'weight': 1}}, }
+Camden, SC (CAM)
+	{Hamlet, NC (HAM): {'weight': 1}}, {Columbia, SC (CLB): {'weight': 1}}, }
+Columbia, SC (CLB)
+	{Camden, SC (CAM): {'weight': 1}}, {Denmark, SC (DNK): {'weight': 1}}, }
+Denmark, SC (DNK)
+	{Columbia, SC (CLB): {'weight': 1}}, {Savannah, GA (SAV): {'weight': 1}}, }
+Savannah, GA (SAV)
+	{Denmark, SC (DNK): {'weight': 1}}, {Jesup, GA (JSP): {'weight': 1}}, }
+Jesup, GA (JSP)
+	{Savannah, GA (SAV): {'weight': 1}}, {Jacksonville, FL (JAX): {'weight': 1}}, }
+Jacksonville, FL (JAX)
+	{Jesup, GA (JSP): {'weight': 1}}, {Palatka, FL (PAK): {'weight': 1}}, }
+Palatka, FL (PAK)
+	{Jacksonville, FL (JAX): {'weight': 1}}, {DeLand, FL (DLD): {'weight': 1}}, }
+DeLand, FL (DLD)
+	{Palatka, FL (PAK): {'weight': 1}}, {Winter Park, FL (WPK): {'weight': 1}}, }
+Winter Park, FL (WPK)
+	{DeLand, FL (DLD): {'weight': 1}}, {Orlando, FL (ORL): {'weight': 1}}, }
+Orlando, FL (ORL)
+	{Winter Park, FL (WPK): {'weight': 1}}, {Kissimmee, FL (KIS): {'weight': 1}}, }
+Kissimmee, FL (KIS)
+	{Orlando, FL (ORL): {'weight': 1}}, {Tampa, FL - Union Station (TPA): {'weight': 1}}, }
+Tampa, FL - Union Station (TPA)
+	{Kissimmee, FL (KIS): {'weight': 1}}, {Lakeland, FL - To/from points south (LKL): {'weight': 1}}, }
+Lakeland, FL - To/from points south (LKL)
+	{Tampa, FL - Union Station (TPA): {'weight': 1}}, {Lakeland, FL - To/from points north (LAK): {'weight': 1}}, }
+Lakeland, FL - To/from points north (LAK)
+	{Lakeland, FL - To/from points south (LKL): {'weight': 1}}, {Winter Haven, FL (WTH): {'weight': 1}}, }
+Winter Haven, FL (WTH)
+	{Lakeland, FL - To/from points north (LAK): {'weight': 1}}, {Sebring, FL (SBG): {'weight': 1}}, }
+Sebring, FL (SBG)
+	{Winter Haven, FL (WTH): {'weight': 1}}, {Okeechobee, FL (OKE): {'weight': 1}}, }
+Okeechobee, FL (OKE)
+	{Sebring, FL (SBG): {'weight': 1}}, {West Palm Beach, FL (WPB): {'weight': 1}}, }
+West Palm Beach, FL (WPB)
+	{Okeechobee, FL (OKE): {'weight': 1}}, {Delray Beach, FL (DLB): {'weight': 1}}, }
+Delray Beach, FL (DLB)
+	{West Palm Beach, FL (WPB): {'weight': 1}}, {Fort Lauderdale, FL (FTL): {'weight': 1}}, }
+Fort Lauderdale, FL (FTL)
+	{Delray Beach, FL (DLB): {'weight': 1}}, {Hollywood, FL (HOL): {'weight': 1}}, }
+Hollywood, FL (HOL)
+	{Fort Lauderdale, FL (FTL): {'weight': 1}}, {Miami, FL (MIA): {'weight': 1}}, }
+Miami, FL (MIA)
+	{Hollywood, FL (HOL): {'weight': 1}}, }
+Fort Madison, IA (FMD)
+	{Galesburg, IL (GBB): {'weight': 1}}, {La Plata, MO (LAP): {'weight': 1}}, }
+La Plata, MO (LAP)
+	{Kansas City, MO - Union Station (KCY): {'weight': 1}}, {Fort Madison, IA (FMD): {'weight': 1}}, }
+Lawrence, KS (LRC)
+	{Kansas City, MO - Union Station (KCY): {'weight': 1}}, {Topeka, KS (TOP): {'weight': 1}}, }
+Topeka, KS (TOP)
+	{Lawrence, KS (LRC): {'weight': 1}}, {Newton, KS (NEW): {'weight': 1}}, }
+Newton, KS (NEW)
+	{Topeka, KS (TOP): {'weight': 1}}, {Hutchinson, KS (HUT): {'weight': 1}}, }
+Hutchinson, KS (HUT)
+	{Newton, KS (NEW): {'weight': 1}}, {Dodge City, KS (DDG): {'weight': 1}}, }
+Dodge City, KS (DDG)
+	{Hutchinson, KS (HUT): {'weight': 1}}, {Garden City, KS (GCK): {'weight': 1}}, }
+Garden City, KS (GCK)
+	{Dodge City, KS (DDG): {'weight': 1}}, {Lamar, CO (LMR): {'weight': 1}}, }
+Lamar, CO (LMR)
+	{Garden City, KS (GCK): {'weight': 1}}, {La Junta, CO (LAJ): {'weight': 1}}, }
+La Junta, CO (LAJ)
+	{Lamar, CO (LMR): {'weight': 1}}, {Trinidad, CO (TRI): {'weight': 1}}, }
+Trinidad, CO (TRI)
+	{La Junta, CO (LAJ): {'weight': 1}}, {Raton, NM (RAT): {'weight': 1}}, }
+Raton, NM (RAT)
+	{Trinidad, CO (TRI): {'weight': 1}}, {Las Vegas, NM (LSV): {'weight': 1}}, }
+Las Vegas, NM (LSV)
+	{Raton, NM (RAT): {'weight': 1}}, {Lamy, NM (LMY): {'weight': 1}}, }
+Lamy, NM (LMY)
+	{Las Vegas, NM (LSV): {'weight': 1}}, {Albuquerque, NM (ABQ): {'weight': 1}}, }
+Albuquerque, NM (ABQ)
+	{Lamy, NM (LMY): {'weight': 1}}, {Gallup, NM (GLP): {'weight': 1}}, }
+Gallup, NM (GLP)
+	{Albuquerque, NM (ABQ): {'weight': 1}}, {Winslow, AZ (WLO): {'weight': 1}}, }
+Winslow, AZ (WLO)
+	{Gallup, NM (GLP): {'weight': 1}}, {Flagstaff, AZ - Amtrak Station (FLG): {'weight': 1}}, }
+Flagstaff, AZ - Amtrak Station (FLG)
+	{Winslow, AZ (WLO): {'weight': 1}}, {Kingman, AZ (KNG): {'weight': 1}}, }
+Kingman, AZ (KNG)
+	{Flagstaff, AZ - Amtrak Station (FLG): {'weight': 1}}, {Needles, CA (NDL): {'weight': 1}}, }
+Needles, CA (NDL)
+	{Kingman, AZ (KNG): {'weight': 1}}, {Barstow, CA - Harvey House Railroad Depot (BAR): {'weight': 1}}, }
+Barstow, CA - Harvey House Railroad Depot (BAR)
+	{Needles, CA (NDL): {'weight': 1}}, {Victorville, CA - Amtrak Station (VRV): {'weight': 1}}, }
+Victorville, CA - Amtrak Station (VRV)
+	{Barstow, CA - Harvey House Railroad Depot (BAR): {'weight': 1}}, {San Bernardino, CA (SNB): {'weight': 1}}, }
+San Bernardino, CA (SNB)
+	{Victorville, CA - Amtrak Station (VRV): {'weight': 1}}, {Riverside, CA (RIV): {'weight': 1}}, }
+Riverside, CA (RIV)
+	{Fullerton, CA (FUL): {'weight': 1}}, {San Bernardino, CA (SNB): {'weight': 1}}, }
+Schriever, LA (SCH)
+	{New Orleans, LA - Union Passenger Terminal (NOL): {'weight': 1}}, {New Iberia, LA (NIB): {'weight': 1}}, }
+New Iberia, LA (NIB)
+	{Schriever, LA (SCH): {'weight': 1}}, {Lafayette, LA (LFT): {'weight': 1}}, }
+Lafayette, LA (LFT)
+	{New Iberia, LA (NIB): {'weight': 1}}, {Lake Charles, LA (LCH): {'weight': 1}}, }
+Lake Charles, LA (LCH)
+	{Lafayette, LA (LFT): {'weight': 1}}, {Beaumont, TX (BMT): {'weight': 1}}, }
+Beaumont, TX (BMT)
+	{Lake Charles, LA (LCH): {'weight': 1}}, {Houston, TX - Amtrak Station (HOS): {'weight': 1}}, }
+Houston, TX - Amtrak Station (HOS)
+	{Beaumont, TX (BMT): {'weight': 1}}, {San Antonio, TX (SAS): {'weight': 1}}, }
+San Antonio, TX (SAS)
+	{Houston, TX - Amtrak Station (HOS): {'weight': 1}}, {Del Rio, TX (DRT): {'weight': 2}}, {San Marcos, TX (SMC): {'weight': 1}}, }
+Del Rio, TX (DRT)
+	{San Antonio, TX (SAS): {'weight': 2}}, {Sanderson, TX (SND): {'weight': 2}}, }
+Sanderson, TX (SND)
+	{Del Rio, TX (DRT): {'weight': 2}}, {Alpine, TX (ALP): {'weight': 2}}, }
+Alpine, TX (ALP)
+	{Sanderson, TX (SND): {'weight': 2}}, {El Paso, TX - Union Depot (ELP): {'weight': 2}}, }
+El Paso, TX - Union Depot (ELP)
+	{Alpine, TX (ALP): {'weight': 2}}, {Deming, NM (DEM): {'weight': 2}}, }
+Deming, NM (DEM)
+	{El Paso, TX - Union Depot (ELP): {'weight': 2}}, {Lordsburg, NM (LDB): {'weight': 2}}, }
+Lordsburg, NM (LDB)
+	{Deming, NM (DEM): {'weight': 2}}, {Benson, AZ (BEN): {'weight': 2}}, }
+Benson, AZ (BEN)
+	{Lordsburg, NM (LDB): {'weight': 2}}, {Tucson, AZ (TUS): {'weight': 2}}, }
+Tucson, AZ (TUS)
+	{Benson, AZ (BEN): {'weight': 2}}, {Maricopa, AZ (MRC): {'weight': 2}}, }
+Maricopa, AZ (MRC)
+	{Tucson, AZ (TUS): {'weight': 2}}, {Yuma, AZ (YUM): {'weight': 2}}, }
+Yuma, AZ (YUM)
+	{Maricopa, AZ (MRC): {'weight': 2}}, {Palm Springs, CA - Amtrak Station (PSN): {'weight': 2}}, }
+Palm Springs, CA - Amtrak Station (PSN)
+	{Yuma, AZ (YUM): {'weight': 2}}, {Ontario, CA (ONA): {'weight': 2}}, }
+Ontario, CA (ONA)
+	{Palm Springs, CA - Amtrak Station (PSN): {'weight': 2}}, {Pomona, CA (POS): {'weight': 2}}, }
+Pomona, CA (POS)
+	{Los Angeles, CA - Union Station (LAX): {'weight': 2}}, {Ontario, CA (ONA): {'weight': 2}}, }
+Arcadia, MO (ACD)
+	{St. Louis, MO - Gateway Station (STL): {'weight': 1}}, {Poplar Bluff, MO (PBF): {'weight': 1}}, }
+Poplar Bluff, MO (PBF)
+	{Arcadia, MO (ACD): {'weight': 1}}, {Walnut Ridge, AR (WNR): {'weight': 1}}, }
+Walnut Ridge, AR (WNR)
+	{Poplar Bluff, MO (PBF): {'weight': 1}}, {Little Rock, AR - Union Station (LRK): {'weight': 1}}, }
+Little Rock, AR - Union Station (LRK)
+	{Walnut Ridge, AR (WNR): {'weight': 1}}, {Malvern, AR (MVN): {'weight': 1}}, }
+Malvern, AR (MVN)
+	{Little Rock, AR - Union Station (LRK): {'weight': 1}}, {Arkadelphia, AR (ARK): {'weight': 1}}, }
+Arkadelphia, AR (ARK)
+	{Malvern, AR (MVN): {'weight': 1}}, {Hope, AR (HOP): {'weight': 1}}, }
+Hope, AR (HOP)
+	{Arkadelphia, AR (ARK): {'weight': 1}}, {Texarkana, AR (TXA): {'weight': 1}}, }
+Texarkana, AR (TXA)
+	{Hope, AR (HOP): {'weight': 1}}, {Marshall, TX (MHL): {'weight': 1}}, }
+Marshall, TX (MHL)
+	{Texarkana, AR (TXA): {'weight': 1}}, {Longview, TX (LVW): {'weight': 1}}, }
+Longview, TX (LVW)
+	{Marshall, TX (MHL): {'weight': 1}}, {Mineola, TX (MIN): {'weight': 1}}, }
+Mineola, TX (MIN)
+	{Longview, TX (LVW): {'weight': 1}}, {Dallas, TX - Eddie Bernice Johnson Union Station (DAL): {'weight': 1}}, }
+Dallas, TX - Eddie Bernice Johnson Union Station (DAL)
+	{Fort Worth, TX (FTW): {'weight': 1}}, {Mineola, TX (MIN): {'weight': 1}}, }
+Cleburne, TX (CBR)
+	{Fort Worth, TX (FTW): {'weight': 1}}, {McGregor, TX (MCG): {'weight': 1}}, }
+McGregor, TX (MCG)
+	{Cleburne, TX (CBR): {'weight': 1}}, {Temple, TX (TPL): {'weight': 1}}, }
+Temple, TX (TPL)
+	{McGregor, TX (MCG): {'weight': 1}}, {Taylor, TX (TAY): {'weight': 1}}, }
+Taylor, TX (TAY)
+	{Temple, TX (TPL): {'weight': 1}}, {Austin, TX (AUS): {'weight': 1}}, }
+Austin, TX (AUS)
+	{Taylor, TX (TAY): {'weight': 1}}, {San Marcos, TX (SMC): {'weight': 1}}, }
+San Marcos, TX (SMC)
+	{San Antonio, TX (SAS): {'weight': 1}}, {Austin, TX (AUS): {'weight': 1}}, }
+Greenfield, MA (GFD)
+	{Northampton, MA (NHT): {'weight': 2}}, {Brattleboro, VT (BRA): {'weight': 1}}, }
+Northampton, MA (NHT)
+	{Greenfield, MA (GFD): {'weight': 2}}, {Holyoke, MA (HLK): {'weight': 2}}, }
+Holyoke, MA (HLK)
+	{Springfield, MA (SPG): {'weight': 2}}, {Northampton, MA (NHT): {'weight': 2}}, }
+St. Albans, VT (SAB)
+	{Essex Junction-Burlington, VT (ESX): {'weight': 1}}, }
+Essex Junction-Burlington, VT (ESX)
+	{St. Albans, VT (SAB): {'weight': 1}}, {Waterbury-Stowe, VT (WAB): {'weight': 1}}, }
+Waterbury-Stowe, VT (WAB)
+	{Essex Junction-Burlington, VT (ESX): {'weight': 1}}, {Montpelier-Berlin, VT (MPR): {'weight': 1}}, }
+Montpelier-Berlin, VT (MPR)
+	{Waterbury-Stowe, VT (WAB): {'weight': 1}}, {Randolph, VT (RPH): {'weight': 1}}, }
+Randolph, VT (RPH)
+	{Montpelier-Berlin, VT (MPR): {'weight': 1}}, {White River Junction, VT (WRJ): {'weight': 1}}, }
+White River Junction, VT (WRJ)
+	{Randolph, VT (RPH): {'weight': 1}}, {Windsor-Mt. Ascutney, VT (WNM): {'weight': 1}}, }
+Windsor-Mt. Ascutney, VT (WNM)
+	{White River Junction, VT (WRJ): {'weight': 1}}, {Claremont, NH (CLA): {'weight': 1}}, }
+Claremont, NH (CLA)
+	{Windsor-Mt. Ascutney, VT (WNM): {'weight': 1}}, {Bellows Falls, VT (BLF): {'weight': 1}}, }
+Bellows Falls, VT (BLF)
+	{Claremont, NH (CLA): {'weight': 1}}, {Brattleboro, VT (BRA): {'weight': 1}}, }
+Brattleboro, VT (BRA)
+	{Greenfield, MA (GFD): {'weight': 1}}, {Bellows Falls, VT (BLF): {'weight': 1}}, }

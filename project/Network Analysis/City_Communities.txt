@@ -1,0 +1,244 @@
+{Boston, MA; Hartford, CT; Worcester, MA; Springfield, MA; New York, NY; Providence, RI}
+{Los Angeles, CA; Glendale, CA; Burbank, CA}
+{Naperville, IL; Memphis, TN; Pittsburgh, PA; Toledo, OH; Joliet, IL; Springfield, IL; Chicago, IL; Cleveland, OH; Jackson, MS; South Bend, IN; Omaha, NE; Indianapolis, IN}
+{Houston, TX; Lafayette, LA; New Orleans, LA; Beaumont, TX}
+{Phoenix, AZ}
+{Philadelphia, PA}
+{El Paso, TX; San Antonio, TX}
+{San Diego, CA}
+{Fort Worth, TX; Norman, OK; Austin, TX; Dallas, TX; Oklahoma City, OK}
+{Fremont, CA; Hayward, CA; San Jose, CA; Santa Clara, CA}
+{Savannah, GA; Jacksonville, FL}
+{Columbus, OH}
+{Charlotte, NC; Greensboro, NC; Durham, NC; High Point, NC}
+{San Francisco, CA}
+{Vancouver, WA; Tacoma, WA; Everett, WA; Portland, OR; Seattle, WA}
+{Provo, UT; Salt Lake City, UT; Lincoln, NE; Denver, CO}
+{Nashville, TN}
+{Alexandria, VA; Cincinnati, OH; Norfolk, VA; Newport News, VA; Richmond, VA; Washington, DC}
+{Las Vegas, NV}
+{Dearborn, MI; Detroit, MI; Ann Arbor, MI}
+{Louisville, KY}
+{Baltimore, MD}
+{Milwaukee, WI}
+{Albuquerque, NM; Topeka, KS}
+{Bakersfield, CA; Fresno, CA; Modesto, CA}
+{Ontario, CA; Pomona, CA; Tucson, AZ}
+{Stockton, CA; Chico, CA; Eugene, OR; Sacramento, CA; Salem, OR; Oakland, CA}
+{Mesa, AZ}
+{Independence, MO; Kansas City, MO}
+{Tuscaloosa, AL; Atlanta, GA; Birmingham, AL}
+{Colorado Springs, CO}
+{Raleigh, NC; Columbia, SC; Cary, NC}
+{Virginia Beach, VA}
+{Long Beach, CA}
+{Miami, FL; Hollywood, FL}
+{Spokane, WA; Fargo, ND; Minneapolis, MN}
+{Tulsa, OK}
+{Wichita, KS}
+{Arlington, TX}
+{Aurora, CO}
+{Orlando, FL; Lakeland, FL; Tampa, FL}
+{Oceanside, CA; Santa Ana, CA; Irvine, CA; Anaheim, CA}
+{Honolulu, HI}
+{Henderson, NV}
+{Lexington, KY}
+{Corpus Christi, TX}
+{Riverside, CA; Fullerton, CA}
+{Newark, NJ}
+{Saint Paul, MN}
+{Little Rock, AR; St. Louis, MO; Lee's Summit, MO}
+{Plano, TX}
+{Anchorage, AK}
+{Jersey City, NJ}
+{Chandler, AZ}
+{Chula Vista, CA}
+{Buffalo, NY}
+{North Las Vegas, NV}
+{Gilbert, AZ}
+{Madison, WI}
+{Roseville, CA; Reno, NV}
+{Fort Wayne, IN}
+{Lubbock, TX}
+{St. Petersburg, FL}
+{Laredo, TX}
+{Irving, TX}
+{Chesapeake, VA}
+{Winston–Salem, NC}
+{Glendale, AZ}
+{Scottsdale, AZ}
+{Garland, TX}
+{Boise, ID}
+{Santa Clarita, CA}
+{San Bernardino, CA; Victorville, CA}
+{Baton Rouge, LA}
+{Hialeah, FL}
+{Port St. Lucie, FL}
+{Huntsville, AL}
+{Des Moines, IA}
+{Moreno Valley, CA}
+{Fontana, CA}
+{Frisco, TX}
+{Rochester, NY; Yonkers, NY; Syracuse, NY}
+{Charleston, SC; Fayetteville, NC}
+{Columbus, GA}
+{Cape Coral, FL}
+{McKinney, TX}
+{Oxnard, CA; Simi Valley, CA; Salinas, CA}
+{Amarillo, TX}
+{Augusta, GA}
+{Montgomery, AL}
+{Lansing, MI; Grand Rapids, MI}
+{Grand Prairie, TX}
+{Overland Park, KS}
+{Tallahassee, FL}
+{Huntington Beach, CA}
+{Sioux Falls, SD}
+{Peoria, AZ}
+{Knoxville, TN}
+{Akron, OH}
+{Brownsville, TX}
+{Mobile, AL}
+{Tempe, AZ}
+{Shreveport, LA}
+{Chattanooga, TN}
+{West Palm Beach, FL; Fort Lauderdale, FL}
+{Aurora, IL}
+{Elk Grove, CA}
+{Santa Rosa, CA}
+{Rancho Cucamonga, CA}
+{Clarksville, TN}
+{Garden Grove, CA}
+{Lancaster, CA}
+{Springfield, MO}
+{Pembroke Pines, FL}
+{Fort Collins, CO}
+{Palmdale, CA}
+{Corona, CA}
+{Paterson, NJ}
+{Murfreesboro, TN}
+{Macon, GA}
+{Lakewood, CO}
+{Killeen, TX}
+{Kansas City, KS}
+{Sunnyvale, CA}
+{Escondido, CA}
+{Bellevue, WA}
+{Surprise, AZ}
+{Pasadena, TX}
+{Bridgeport, CT; New Haven, CT; Stamford, CT}
+{Denton, TX}
+{Rockford, IL}
+{Mesquite, TX}
+{McAllen, TX}
+{Torrance, CA}
+{Olathe, KS}
+{Visalia, CA}
+{Thornton, CO}
+{Gainesville, FL}
+{Waco, TX}
+{West Valley City, UT}
+{Warren, MI}
+{Lakewood, NJ}
+{Hampton, VA}
+{Dayton, OH}
+{Orange, CA}
+{Cedar Rapids, IA}
+{Pasadena, CA}
+{Elizabeth, NJ}
+{Miramar, FL}
+{Kent, WA}
+{Sterling Heights, MI}
+{Carrollton, TX}
+{Coral Springs, FL}
+{Midland, TX}
+{Athens, GA}
+{Columbia, MO}
+{Pearland, TX}
+{Meridian, ID}
+{Allentown, PA}
+{Thousand Oaks, CA}
+{Abilene, TX}
+{Vallejo, CA}
+{Concord, CA}
+{Round Rock, TX}
+{Arvada, CO}
+{Clovis, CA}
+{Palm Bay, FL}
+{Rochester, MN}
+{College Station, TX}
+{Richmond, CA; Vacaville, CA; Berkeley, CA; Fairfield, CA}
+{Wilmington, NC}
+{North Charleston, SC}
+{Billings, MT}
+{Cambridge, MA}
+{Clearwater, FL}
+{West Jordan, UT}
+{Evansville, IN}
+{Richardson, TX}
+{Broken Arrow, OK}
+{League City, TX}
+{Manchester, NH}
+{Carlsbad, CA}
+{Antioch, CA}
+{Westminster, CO}
+{Lowell, MA}
+{Elgin, IL}
+{Waterbury, CT}
+{Gresham, OR}
+{Murrieta, CA}
+{Lewisville, TX}
+{Las Cruces, NM}
+{Odessa, TX}
+{Pueblo, CO}
+{Peoria, IL}
+{Downey, CA}
+{Pompano Beach, FL}
+{Miami Gardens, FL}
+{Temecula, CA}
+{Costa Mesa, CA}
+{Ventura[, CA}
+{Sparks, NV}
+{Santa Maria, CA}
+{Sugar Land, TX}
+{Greeley, CO}
+{South Fulton, GA}
+{Concord, NC}
+{Edison, NJ}
+{Tyler, TX}
+{Sandy Springs, GA}
+{West Covina, CA}
+{Green Bay, WI}
+{Centennial, CO}
+{Jurupa Valley, CA}
+{El Monte, CA}
+{Allen, TX}
+{Hillsboro, OR}
+{Menifee, CA}
+{Nampa, ID}
+{Spokane Valley, WA}
+{Rio Rancho, NM}
+{Brockton, MA}
+{El Cajon, CA}
+{Inglewood, CA}
+{Renton, WA}
+{Davie, FL}
+{Rialto, CA}
+{Boulder, CO}
+{Woodbridge, NJ}
+{Wichita Falls, TX}
+{Edinburg, TX}
+{San Mateo, CA}
+{Bend, OR}
+{Goodyear, AZ}
+{Buckeye, AZ}
+{Daly City, CA}
+{Fishers, IN}
+{Quincy, MA}
+{Davenport, IA}
+{Hesperia, CA}
+{New Bedford, MA}
+{Lynn, MA}
+{Carmel, IN}
+{Longmont, CO}
+{Norwalk, CA}

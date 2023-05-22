@@ -1,0 +1,207 @@
+{Boston, MA - Back Bay Station (BBY); Framingham, MA (FRA); Boston, MA - South Station (BOS)}
+{Bridgeport, CT (BRP); New Haven, CT - State Street Station (STS); Wallingford, CT (WFD); Providence, RI - Amtrak/MBTA Station (PVD); Route 128, MA (RTE); New Haven, CT - Union Station (NHV)}
+{Croton-Harmon, NY (CRT); Yonkers, NY (YNY); New York, NY - Penn Station (NYP); Stamford, CT (STM); New York, NY - Moynihan Train Hall (NYP); New Rochelle, NY (NRO)}
+{Newark, NJ - Penn Station (NWK); Metropark, NJ (MET); Trenton, NJ (TRE); Newark, NJ - Liberty International Airport (EWR)}
+{Newark, DE (NRK); Aberdeen, MD (ABE); Baltimore, MD - Penn Station (BAL); Wilmington, DE (WIL); Philadelphia, PA - William H. Gray III 30th St. Station (PHL)}
+{Baltimore, MD - BWI Thurgood Marshall Airport (BWI); New Carrollton, MD (NCR); Rockville, MD (RKV); Washington, DC - Union Station (WAS)}
+{Hudson, NY (HUD); Rhinecliff, NY (RHI); Poughkeepsie, NY (POU)}
+{Syracuse, NY - Regional Transportation Center (SYR); Schenectady, NY (SDY); Amsterdam, NY (AMS); Rome, NY (ROM); Albany-Rensselaer, NY (ALB); Utica, NY (UCA)}
+{Fort Edward, NY (FED); Castleton, VT (CNV); Whitehall, NY (WHL); Saratoga Springs, NY (SAR); Rutland, VT - James M. Jeffords Station (RUD)}
+{Ticonderoga, NY (FTC); Port Henry, NY (POH)}
+{Port Kent, NY (PRK); Westport, NY (WSP)}
+{Rouses Point, NY (RSP); Plattsburgh, NY (PLB)}
+{St-Lambert, QC (SLQ); Montreal, QC - Gare Centrale/Central Station (MTR)}
+{Eugene, OR - Amtrak Station (EUG); Chemult, OR (CMO)}
+{Ephrata, WA (EPH); Salem, OR - Amtrak Station (SLM); Oregon City, OR (ORC); Albany, OR (ALY); Vancouver, WA (VAN); Portland, OR - Union Station (PDX)}
+{Kelso-Longview, WA (KEL); Centralia, WA (CTL)}
+{Olympia-Lacey, WA (OLW); Tacoma, WA (TAC); Seattle, WA - King Street Station (SEA); Tukwila, WA (TUK)}
+{Stanwood, WA (STW); Wenatchee, WA - Amtrak Station (WEN); Edmonds, WA (EDM); Everett, WA (EVR); Leavenworth, WA - Icicle Station (LWA)}
+{Bellingham, WA (BEL); Mount Vernon, WA (MVW); Vancouver, BC - Pacific Central Station (VAC)}
+{Worcester, MA - Union Station (WOR); Windsor, CT (WND); Hartford, CT (HFD); Old Saybrook, CT (OSB); Holyoke, MA (HLK); Windsor Locks, CT (WNL); Pittsfield, MA (PIT); Springfield, MA (SPG); Berlin, CT (BER); Meriden, CT (MDN)}
+{Lorton, VA - Auto Train to Orlando Area (LOR); Sanford, FL - Auto Train to Washington, DC Area (SFA)}
+{La Grange, IL (LAG); Hammond-Whiting, IN (HMI); Homewood, IL (HMW); Summit, IL (SMT); Joliet, IL (JOL); Chicago, IL - Union Station (CHI); Dyer, IN (DYE)}
+{Mendota, IL (MDT); Plano, IL (PLO); Naperville, IL (NPV)}
+{McCook, NE (MCK); Fort Morgan, CO (FMG)}
+{Elko, NV (ELK); Winnemucca, NV (WNN); Reno, NV (RNO)}
+{Burlington, IA (BRL); Kewanee, IL (KEE); Galesburg, IL (GBB); Princeton, IL (PCT); Fort Madison, IA (FMD)}
+{Mt. Pleasant, IA (MTP); Ottumwa, IA (OTM)}
+{Osceola, IA (OSC); Creston, IA (CRN)}
+{Lincoln, NE (LNK); Omaha, NE (OMA)}
+{Holdrege, NE (HLD); Hastings, NE (HAS)}
+{Fraser-Winter Park, CO (WIP); Denver, CO - Union Station (DEN)}
+{Granby, CO (GRA); Glenwood Springs, CO (GSC)}
+{Green River, UT (GRI); Grand Junction, CO (GJT)}
+{Salt Lake City, UT - Amtrak Station (SLC); Provo, UT (PRO); Helper, UT (HER)}
+{Truckee, CA (TRU); Colfax, CA (COX)}
+{Sacramento, CA - Sacramento Valley Station (SAC); Lodi, CA (LOD); Roseville, CA (RSV)}
+{Davis, CA (DAV); Antioch-Pittsburg, CA (ACA); Martinez, CA (MTZ)}
+{Emeryville, CA (EMY); Berkeley, CA (BKY); Richmond, CA (RIC)}
+{Auburn, CA (ARN); Rocklin, CA (RLN)}
+{Fairfield-Vacaville, CA (FFV); Suisun-Fairfield, CA (SUI)}
+{Oakland, CA - Jack London Square Station (OKJ); Stockton, CA - Robert J. Cabral Station (SKT); San Jose, CA - Diridon Station (SJC); Oakland, CA - Coliseum/Airport (OAC)}
+{Fremont, CA - Amtrak/ACE Station (FMT); Hayward, CA (HAY)}
+{Santa Clara, CA - Transit Center (SCC); Santa Clara, CA - Great America (GAC)}
+{Harpers Ferry, WV (HFY); Martinsburg, WV (MRB)}
+{Cumberland, MD - Amtrak Station (CUM); Connellsville, PA (COV)}
+{Pittsburgh, PA - Union Station (PGH); Alliance, OH (ALC); Greensburg, PA - Amtrak Station (GNB)}
+{Cleveland, OH (CLE); Buffalo, NY - Depew Station (BUF); Erie, PA (ERI); Sandusky, OH (SKY); Elyria, OH (ELY); Rochester, NY - Louise M. Slaughter Station (ROC)}
+{Toledo, OH (TOL); Waterloo, IN (WTI); Bryan, OH (BYN)}
+{South Bend, IN (SOB); Elkhart, IN (EKH)}
+{Culpeper, VA (CLP); Alexandria, VA (ALX); Burke Centre, VA (BCV); Manassas, VA (MSS)}
+{Charlottesville, VA (CVS); Staunton, VA (STA); Lynchburg, VA (LYH)}
+{Clifton Forge, VA (CLF); White Sulphur Springs, WV (WSS)}
+{Hinton, WV (HIN); Alderson, WV (ALD)}
+{Prince, WV (PRC); Thurmond, WV (THN)}
+{Montgomery, WV (MNG); Charleston, WV (CHW)}
+{Ashland, KY (AKY); Huntington, WV (HUN)}
+{Maysville, KY (MAY); South Shore, KY - Portsmouth, OH (SPM)}
+{Connersville, IN (COI); Cincinnati, OH - Union Terminal (CIN)}
+{Indianapolis, IN (IND); Crawfordsville, IN (CRF)}
+{Lafayette, IN - Amtrak Station (LAF); Rensselaer, IN (REN)}
+{Quantico, VA (QAN); Richmond, VA - Staples Mill Road Station (RVR); Ashland, VA (ASD); Fredericksburg, VA (FBG)}
+{Rocky Mount, NC (RMT); Petersburg, VA (PTB); Norfolk, VA (NFK)}
+{Wilson, NC (WLN); Selma-Smithfield, NC (SSM)}
+{Southern Pines, NC (SOP); Raleigh, NC - Union Station (RGH); Cary, NC (CYN); Durham, NC (DNC); Burlington, NC (BNC)}
+{Greensboro, NC (GRO); High Point, NC (HPT); Danville, VA (DAN)}
+{Salisbury, NC (SAL); Kannapolis, NC (KAN); Charlotte, NC (CLT)}
+{Rantoul, IL (RTL); Gilman, IL (GLM); Champaign-Urbana, IL (CHM); Kankakee, IL (KKI)}
+{Effingham, IL (EFG); Mattoon, IL (MAT)}
+{Dwight, IL (DWT); Du Quoin, IL (DQN); Centralia, IL (CEN); Carbondale, IL (CDL); Fulton, KY (FTN)}
+{Memphis, TN - Central Station (MEM); Newbern-Dyersburg, TN (NBN)}
+{Greenwood, MS (GWD); Marks, MS (MKS)}
+{Yazoo City, MS (YAZ); Jackson, MS (JAN)}
+{Hazlehurst, MS (HAZ); Brookhaven, MS (BRH)}
+{McComb, MS (MCB); Hammond, LA (HMD)}
+{New Orleans, LA - Union Passenger Terminal (NOL); Schriever, LA (SCH)}
+{Klamath Falls, OR (KFS); Dunsmuir, CA (DUN)}
+{Redding, CA - Amtrak Station (RDD); Chico, CA (CIC)}
+{Salinas, CA - Amtrak Station (SNS); Paso Robles, CA (PRB)}
+{Oxnard, CA (OXN); Ventura, CA (VEC); San Luis Obispo, CA - Amtrak Station (SLO); Santa Barbara, CA (SBA); Carpinteria, CA (CPN)}
+{Van Nuys, CA (VNC); Northridge, CA (NRG); Simi Valley, CA (SIM); Chatsworth, CA (CWT)}
+{Pomona, CA (POS); Burbank, CA (BUR); Los Angeles, CA - Union Station (LAX); Ontario, CA (ONA); Fullerton, CA (FUL)}
+{Gastonia, NC (GAS); Spartanburg, SC (SPB)}
+{Greenville, SC (GRV); Clemson, SC (CSN)}
+{Gainesville, GA (GNS); Toccoa, GA (TCA)}
+{Atlanta, GA (ATL); Anniston, AL (ATN)}
+{Tuscaloosa, AL (TCL); Birmingham, AL (BHM)}
+{Meridian, MS - Union Station (MEI); Laurel, MS (LAU)}
+{Hattiesburg, MS (HBG); Picayune, MS (PIC)}
+{Freeport, ME (FRE); Portland, ME (POR); Brunswick, ME (BRK)}
+{Saco, ME (SAO); Old Orchard Beach, ME (ORB)}
+{Wells, ME (WEM); Dover, NH (DOV)}
+{Durham, NH (DHM); Exeter, NH (EXR)}
+{Woburn, MA (WOB); Boston, MA - North Station (BON); Haverhill, MA (HHL)}
+{Glenview, IL (GLN); Sturtevant, WI (SVT); Milwaukee, WI - General Mitchell Airport Trains (MKA); Milwaukee, WI - Downtown (MKE); Columbus, WI (CBS)}
+{Wisconsin Dells, WI (WDL); Portage, WI (POG)}
+{Tomah, WI (TOH); La Crosse, WI - Amtrak Station (LSE)}
+{Red Wing, MN (RDW); Winona, MN (WIN)}
+{St. Paul-Minneapolis, MN - Union Depot (MSP); St. Cloud, MN (SCD)}
+{Detroit Lakes, MN (DLK); Staples, MN (SPL)}
+{Fargo, ND (FAR); Grand Forks, ND (GFK)}
+{Rugby, ND (RUG); Devils Lake, ND (DVL)}
+{Minot, ND (MOT); Stanley, ND (STN)}
+{Williston, ND (WTN); Wolf Point, MT (WPT)}
+{Malta, MT (MAL); Glasgow, MT (GGW)}
+{Shelby, MT (SBY); Havre, MT (HAV)}
+{Browning, MT (BRO); Cut Bank, MT (CUT)}
+{Essex, MT (ESM); East Glacier Park, MT (GPK)}
+{Whitefish, MT (WFH); West Glacier, MT (WGL)}
+{Libby, MT (LIB); Sandpoint, ID (SPT)}
+{Spokane, WA - Amtrak Station (SPK); Pasco, WA (PSC)}
+{Bingen-White Salmon, WA (BNG); Wishram, WA (WIH)}
+{Niagara Falls, ON (NFS); Buffalo, NY - Exchange Street Station (BFX); Niagara Falls, NY (NFL)}
+{Middlebury, VT - Amtrak Station (MBY); Burlington, VT - Union Station (BTN); Ferrisburgh-Vergennes, VT (VRN)}
+{Purcell, OK (PUR); Oklahoma City, OK (OKC); Norman, OK (NOR)}
+{Ardmore, OK (ADM); Pauls Valley, OK (PVL)}
+{Dallas, TX - Eddie Bernice Johnson Union Station (DAL); Fort Worth, TX (FTW); Gainesville, TX (GLE); Cleburne, TX (CBR)}
+{Quincy, IL (QCY); Macomb, IL (MAC)}
+{Pontiac, IL (PON); Bloomington-Normal, IL (BNL)}
+{Springfield, IL (SPI); Lincoln, IL (LCN)}
+{Alton, IL (ALN); Carlinville, IL (CRV)}
+{Harrisburg, PA (HAR); Huntingdon, PA (HGD); Lewistown, PA - Amtrak Station (LEW); Middletown, PA (MID)}
+{Lancaster, PA (LNC); Mount Joy, PA (MJY); Elizabethtown, PA (ELT)}
+{Coatesville, PA (COT); Parkesburg, PA (PAR)}
+{Paoli, PA (PAO); Ardmore, PA (ARD); Downingtown, PA (DOW); Exton, PA (EXT)}
+{Cornwells Heights, PA (CWH); North Philadelphia, PA (PHN)}
+{New Brunswick, NJ (NBK); Princeton Junction, NJ (PJC)}
+{Arcadia, MO (ACD); Kirkwood, MO (KWD); St. Louis, MO - Gateway Station (STL)}
+{Hermann, MO (HEM); Washington, MO (WAH)}
+{Sedalia, MO (SED); Jefferson City, MO (JEF)}
+{Warrensburg, MO (WAR); Lee's Summit, MO (LEE)}
+{Kansas City, MO - Union Station (KCY); La Plata, MO (LAP); Lawrence, KS (LRC); Independence, MO (IDP)}
+{Grimsby, ON (GMS); St. Catharines, ON (SCA)}
+{Toronto, ON - Union Station (TWO); Aldershot, ON (AST); Oakville, ON (OKL)}
+{Michigan City, IN (MCI); New Buffalo, MI (NBU)}
+{Niles, MI (NLS); Dowagiac, MI (DOA)}
+{Kalamazoo, MI (KAL); Battle Creek, MI (BTL)}
+{East Lansing, MI (LNS); Durand, MI (DRD)}
+{Lapeer, MI (LPE); Flint, MI (FLN)}
+{St. Joseph-Benton Harbor, MI (SJM); Port Huron, MI (PTH)}
+{Bangor, MI (BAM); Holland, MI (HOM)}
+{Grand Rapids, MI (GRR); Albion, MI (ALI)}
+{Jackson, MI (JXN); Ann Arbor, MI (ARB)}
+{Dearborn, MI (DER); Detroit, MI (DET)}
+{Royal Oak, MI (ROY); Troy, MI (TRM); Pontiac, MI (PNT)}
+{Westerly, RI (WLY); Kingston, RI (KIN)}
+{Mystic, CT (MYS); New London, CT - Union Station (NLC)}
+{Woodbridge, VA (WDB); Roanoke, VA (RNK)}
+{Richmond, VA - Main Street Station (RVM); Newport News, VA (NPN); Williamsburg, VA (WBG)}
+{Guadalupe, CA (GUA); Grover Beach, CA (GVB)}
+{Lompoc-Surf, CA -Amtrak Station (LPS); Goleta, CA (GTA)}
+{Moorpark, CA (MPK); Camarillo, CA (CML)}
+{Burbank, CA - Downtown (BBK); Glendale, CA (GDL)}
+{Anaheim, CA - Regional Trans.Intermodal Ctr. (ANA); Santa Ana, CA (SNA)}
+{Irvine, CA (IRV); San Juan Capistrano, CA (SNC)}
+{Oceanside, CA (OSD); San Clemente Pier, CA (SNP)}
+{Solana Beach, CA (SOL); San Diego, CA - Old Town Transportation Center (OLT); San Diego, CA - Santa Fe Depot (SAN)}
+{Altoona, PA (ALT); Tyrone, PA (TYR)}
+{Johnstown, PA (JST); Latrobe, PA - Amtrak Station (LAB)}
+{Stockton, CA - San Joaquin Street Station (SKN); Modesto, CA (MOD)}
+{Merced, CA (MCD); Turlock-Denair, CA (TRK)}
+{Madera, CA (MDR); Fresno, CA (FNO)}
+{Hanford, CA (HNF); Corcoran, CA (COC)}
+{Wasco, CA (WAC); Bakersfield, CA (BFD)}
+{Dillon, SC (DIL); Fayetteville, NC (FAY)}
+{Florence, SC (FLO); Kingstree, SC (KTR)}
+{Yemassee, SC (YEM); Charleston, SC (CHS)}
+{Camden, SC (CAM); Hamlet, NC (HAM)}
+{Columbia, SC (CLB); Denmark, SC (DNK)}
+{Jesup, GA (JSP); Savannah, GA (SAV)}
+{Palatka, FL (PAK); Jacksonville, FL (JAX)}
+{Winter Park, FL (WPK); DeLand, FL (DLD)}
+{Kissimmee, FL (KIS); Orlando, FL (ORL)}
+{Lakeland, FL - To/from points south (LKL); Tampa, FL - Union Station (TPA)}
+{Winter Haven, FL (WTH); Lakeland, FL - To/from points north (LAK)}
+{Okeechobee, FL (OKE); Sebring, FL (SBG)}
+{West Palm Beach, FL (WPB); Delray Beach, FL (DLB)}
+{Miami, FL (MIA); Hollywood, FL (HOL); Fort Lauderdale, FL (FTL)}
+{Newton, KS (NEW); Topeka, KS (TOP)}
+{Hutchinson, KS (HUT); Dodge City, KS (DDG)}
+{Garden City, KS (GCK); Lamar, CO (LMR)}
+{La Junta, CO (LAJ); Trinidad, CO (TRI)}
+{Raton, NM (RAT); Las Vegas, NM (LSV)}
+{Albuquerque, NM (ABQ); Lamy, NM (LMY)}
+{Winslow, AZ (WLO); Gallup, NM (GLP)}
+{Kingman, AZ (KNG); Flagstaff, AZ - Amtrak Station (FLG)}
+{Barstow, CA - Harvey House Railroad Depot (BAR); Needles, CA (NDL)}
+{Riverside, CA (RIV); Victorville, CA - Amtrak Station (VRV); San Bernardino, CA (SNB)}
+{Lafayette, LA (LFT); New Iberia, LA (NIB)}
+{Lake Charles, LA (LCH); Beaumont, TX (BMT)}
+{San Marcos, TX (SMC); Houston, TX - Amtrak Station (HOS); San Antonio, TX (SAS); Del Rio, TX (DRT)}
+{Sanderson, TX (SND); Alpine, TX (ALP)}
+{Deming, NM (DEM); El Paso, TX - Union Depot (ELP)}
+{Benson, AZ (BEN); Lordsburg, NM (LDB)}
+{Tucson, AZ (TUS); Maricopa, AZ (MRC)}
+{Yuma, AZ (YUM); Palm Springs, CA - Amtrak Station (PSN)}
+{Walnut Ridge, AR (WNR); Poplar Bluff, MO (PBF)}
+{Little Rock, AR - Union Station (LRK); Malvern, AR (MVN)}
+{Arkadelphia, AR (ARK); Hope, AR (HOP)}
+{Texarkana, AR (TXA); Marshall, TX (MHL)}
+{Longview, TX (LVW); Mineola, TX (MIN)}
+{McGregor, TX (MCG); Temple, TX (TPL)}
+{Austin, TX (AUS); Taylor, TX (TAY)}
+{Brattleboro, VT (BRA); Greenfield, MA (GFD); Northampton, MA (NHT)}
+{Waterbury-Stowe, VT (WAB); Essex Junction-Burlington, VT (ESX); St. Albans, VT (SAB)}
+{Montpelier-Berlin, VT (MPR); Randolph, VT (RPH)}
+{Windsor-Mt. Ascutney, VT (WNM); White River Junction, VT (WRJ)}
+{Bellows Falls, VT (BLF); Claremont, NH (CLA)}

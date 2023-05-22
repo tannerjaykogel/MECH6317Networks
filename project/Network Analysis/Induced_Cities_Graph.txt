@@ -1,0 +1,662 @@
+New York, NY
+	{Stamford, CT: {'weight': 2}}, {Newark, NJ: {'weight': 9}}, {Yonkers, NY: {'weight': 5}}, }
+Los Angeles, CA
+	{Burbank, CA: {'weight': 1}}, {Glendale, CA: {'weight': 1}}, {Fullerton, CA: {'weight': 2}}, {Pomona, CA: {'weight': 2}}, }
+Chicago, IL
+	{Naperville, IL: {'weight': 2}}, {South Bend, IN: {'weight': 2}}, {Joliet, IL: {'weight': 1}}, }
+Houston, TX
+	{Beaumont, TX: {'weight': 1}}, {San Antonio, TX: {'weight': 1}}, }
+Phoenix, AZ
+	}
+Philadelphia, PA
+	{Philadelphia, PA: {'weight': 6}}, }
+San Antonio, TX
+	{Houston, TX: {'weight': 1}}, }
+San Diego, CA
+	{San Diego, CA: {'weight': 2}}, }
+Dallas, TX
+	{Fort Worth, TX: {'weight': 1}}, }
+San Jose, CA
+	{Oakland, CA: {'weight': 1}}, {Santa Clara, CA: {'weight': 1}}, {Salinas, CA: {'weight': 1}}, }
+Austin, TX
+	}
+Jacksonville, FL
+	}
+Fort Worth, TX
+	{Dallas, TX: {'weight': 1}}, }
+Columbus, OH
+	}
+Indianapolis, IN
+	}
+Charlotte, NC
+	}
+San Francisco, CA
+	}
+Seattle, WA
+	{Tacoma, WA: {'weight': 1}}, }
+Denver, CO
+	}
+Oklahoma City, OK
+	{Norman, OK: {'weight': 1}}, }
+Nashville, TN
+	}
+El Paso, TX
+	}
+Washington, DC
+	{Baltimore, MD: {'weight': 4}}, {Alexandria, VA: {'weight': 5}}, }
+Boston, MA
+	{Boston, MA: {'weight': 6}}, }
+Las Vegas, NV
+	}
+Portland, OR
+	{Salem, OR: {'weight': 1}}, {Vancouver, WA: {'weight': 3}}, }
+Detroit, MI
+	{Dearborn, MI: {'weight': 1}}, }
+Louisville, KY
+	}
+Memphis, TN
+	}
+Baltimore, MD
+	{Washington, DC: {'weight': 4}}, {Baltimore, MD: {'weight': 8}}, }
+Milwaukee, WI
+	{Milwaukee, WI: {'weight': 2}}, }
+Albuquerque, NM
+	}
+Fresno, CA
+	}
+Tucson, AZ
+	}
+Sacramento, CA
+	{Roseville, CA: {'weight': 2}}, {Chico, CA: {'weight': 1}}, }
+Mesa, AZ
+	}
+Kansas City, MO
+	{Independence, MO: {'weight': 2}}, }
+Atlanta, GA
+	}
+Omaha, NE
+	{Lincoln, NE: {'weight': 1}}, }
+Colorado Springs, CO
+	}
+Raleigh, NC
+	{Cary, NC: {'weight': 1}}, {Fayetteville, NC: {'weight': 1}}, }
+Virginia Beach, VA
+	}
+Long Beach, CA
+	}
+Miami, FL
+	{Hollywood, FL: {'weight': 1}}, }
+Oakland, CA
+	{San Jose, CA: {'weight': 1}}, {Oakland, CA: {'weight': 2}}, {Stockton, CA: {'weight': 1}}, {Hayward, CA: {'weight': 1}}, }
+Minneapolis, MN
+	}
+Tulsa, OK
+	}
+Bakersfield, CA
+	}
+Wichita, KS
+	}
+Arlington, TX
+	}
+Aurora, CO
+	}
+Tampa, FL
+	{Lakeland, FL: {'weight': 1}}, }
+New Orleans, LA
+	}
+Cleveland, OH
+	}
+Anaheim, CA
+	{Fullerton, CA: {'weight': 1}}, {Santa Ana, CA: {'weight': 1}}, }
+Honolulu, HI
+	}
+Henderson, NV
+	}
+Stockton, CA
+	{Oakland, CA: {'weight': 1}}, {Modesto, CA: {'weight': 1}}, }
+Lexington, KY
+	}
+Corpus Christi, TX
+	}
+Riverside, CA
+	{Fullerton, CA: {'weight': 1}}, {San Bernardino, CA: {'weight': 1}}, }
+Santa Ana, CA
+	{Anaheim, CA: {'weight': 1}}, {Irvine, CA: {'weight': 1}}, }
+Orlando, FL
+	}
+Irvine, CA
+	{Santa Ana, CA: {'weight': 1}}, }
+Cincinnati, OH
+	}
+Newark, NJ
+	{New York, NY: {'weight': 9}}, {Newark, NJ: {'weight': 6}}, }
+Saint Paul, MN
+	}
+Pittsburgh, PA
+	}
+Greensboro, NC
+	{High Point, NC: {'weight': 2}}, }
+St. Louis, MO
+	}
+Lincoln, NE
+	{Omaha, NE: {'weight': 1}}, }
+Plano, TX
+	}
+Anchorage, AK
+	}
+Durham, NC
+	{Cary, NC: {'weight': 1}}, }
+Jersey City, NJ
+	}
+Chandler, AZ
+	}
+Chula Vista, CA
+	}
+Buffalo, NY
+	{Buffalo, NY: {'weight': 4}}, {Rochester, NY: {'weight': 3}}, }
+North Las Vegas, NV
+	}
+Gilbert, AZ
+	}
+Madison, WI
+	}
+Reno, NV
+	}
+Toledo, OH
+	}
+Fort Wayne, IN
+	}
+Lubbock, TX
+	}
+St. Petersburg, FL
+	}
+Laredo, TX
+	}
+Irving, TX
+	}
+Chesapeake, VA
+	}
+Winston–Salem, NC
+	}
+Glendale, AZ
+	}
+Scottsdale, AZ
+	}
+Garland, TX
+	}
+Boise, ID
+	}
+Norfolk, VA
+	{Richmond, VA: {'weight': 1}}, }
+Spokane, WA
+	}
+Fremont, CA
+	{Hayward, CA: {'weight': 1}}, {Santa Clara, CA: {'weight': 1}}, }
+Richmond, VA
+	{Norfolk, VA: {'weight': 1}}, }
+Santa Clarita, CA
+	}
+San Bernardino, CA
+	{Riverside, CA: {'weight': 1}}, {Victorville, CA: {'weight': 1}}, }
+Baton Rouge, LA
+	}
+Hialeah, FL
+	}
+Tacoma, WA
+	{Seattle, WA: {'weight': 1}}, }
+Modesto, CA
+	{Stockton, CA: {'weight': 1}}, }
+Port St. Lucie, FL
+	}
+Huntsville, AL
+	}
+Des Moines, IA
+	}
+Moreno Valley, CA
+	}
+Fontana, CA
+	}
+Frisco, TX
+	}
+Rochester, NY
+	{Buffalo, NY: {'weight': 3}}, {Syracuse, NY: {'weight': 3}}, }
+Yonkers, NY
+	{New York, NY: {'weight': 5}}, }
+Fayetteville, NC
+	{Raleigh, NC: {'weight': 1}}, }
+Worcester, MA
+	{Springfield, MA: {'weight': 1}}, }
+Columbus, GA
+	}
+Cape Coral, FL
+	}
+McKinney, TX
+	}
+Little Rock, AR
+	}
+Oxnard, CA
+	{Simi Valley, CA: {'weight': 1}}, }
+Amarillo, TX
+	}
+Augusta, GA
+	}
+Salt Lake City, UT
+	{Provo, UT: {'weight': 1}}, }
+Montgomery, AL
+	}
+Birmingham, AL
+	{Tuscaloosa, AL: {'weight': 1}}, }
+Grand Rapids, MI
+	}
+Grand Prairie, TX
+	}
+Overland Park, KS
+	}
+Tallahassee, FL
+	}
+Huntington Beach, CA
+	}
+Sioux Falls, SD
+	}
+Peoria, AZ
+	}
+Knoxville, TN
+	}
+Glendale, CA
+	{Los Angeles, CA: {'weight': 1}}, {Burbank, CA: {'weight': 1}}, }
+Vancouver, WA
+	{Portland, OR: {'weight': 3}}, }
+Providence, RI
+	{New Haven, CT: {'weight': 1}}, }
+Akron, OH
+	}
+Brownsville, TX
+	}
+Mobile, AL
+	}
+Newport News, VA
+	}
+Tempe, AZ
+	}
+Shreveport, LA
+	}
+Chattanooga, TN
+	}
+Fort Lauderdale, FL
+	{Hollywood, FL: {'weight': 1}}, }
+Aurora, IL
+	}
+Elk Grove, CA
+	}
+Ontario, CA
+	{Pomona, CA: {'weight': 2}}, }
+Salem, OR
+	{Portland, OR: {'weight': 1}}, }
+Cary, NC
+	{Raleigh, NC: {'weight': 1}}, {Durham, NC: {'weight': 1}}, }
+Santa Rosa, CA
+	}
+Rancho Cucamonga, CA
+	}
+Eugene, OR
+	}
+Oceanside, CA
+	}
+Clarksville, TN
+	}
+Garden Grove, CA
+	}
+Lancaster, CA
+	}
+Springfield, MO
+	}
+Pembroke Pines, FL
+	}
+Fort Collins, CO
+	}
+Palmdale, CA
+	}
+Salinas, CA
+	{San Jose, CA: {'weight': 1}}, }
+Hayward, CA
+	{Oakland, CA: {'weight': 1}}, {Fremont, CA: {'weight': 1}}, }
+Corona, CA
+	}
+Paterson, NJ
+	}
+Murfreesboro, TN
+	}
+Macon, GA
+	}
+Lakewood, CO
+	}
+Killeen, TX
+	}
+Springfield, MA
+	{Worcester, MA: {'weight': 1}}, }
+Alexandria, VA
+	{Washington, DC: {'weight': 5}}, }
+Kansas City, KS
+	}
+Sunnyvale, CA
+	}
+Hollywood, FL
+	{Miami, FL: {'weight': 1}}, {Fort Lauderdale, FL: {'weight': 1}}, }
+Roseville, CA
+	{Sacramento, CA: {'weight': 2}}, }
+Charleston, SC
+	}
+Escondido, CA
+	}
+Joliet, IL
+	{Chicago, IL: {'weight': 1}}, }
+Jackson, MS
+	}
+Bellevue, WA
+	}
+Surprise, AZ
+	}
+Naperville, IL
+	{Chicago, IL: {'weight': 2}}, }
+Pasadena, TX
+	}
+Pomona, CA
+	{Los Angeles, CA: {'weight': 2}}, {Ontario, CA: {'weight': 2}}, }
+Bridgeport, CT
+	{New Haven, CT: {'weight': 2}}, {Stamford, CT: {'weight': 2}}, }
+Denton, TX
+	}
+Rockford, IL
+	}
+Mesquite, TX
+	}
+Savannah, GA
+	}
+Syracuse, NY
+	{Rochester, NY: {'weight': 3}}, }
+McAllen, TX
+	}
+Torrance, CA
+	}
+Olathe, KS
+	}
+Visalia, CA
+	}
+Thornton, CO
+	}
+Fullerton, CA
+	{Los Angeles, CA: {'weight': 2}}, {Anaheim, CA: {'weight': 1}}, {Riverside, CA: {'weight': 1}}, }
+Gainesville, FL
+	}
+Waco, TX
+	}
+West Valley City, UT
+	}
+Warren, MI
+	}
+Lakewood, NJ
+	}
+Hampton, VA
+	}
+Dayton, OH
+	}
+Columbia, SC
+	}
+Orange, CA
+	}
+Cedar Rapids, IA
+	}
+Stamford, CT
+	{New York, NY: {'weight': 2}}, {Bridgeport, CT: {'weight': 2}}, {New Haven, CT: {'weight': 1}}, }
+Victorville, CA
+	{San Bernardino, CA: {'weight': 1}}, }
+Pasadena, CA
+	}
+Elizabeth, NJ
+	}
+New Haven, CT
+	{Providence, RI: {'weight': 1}}, {Bridgeport, CT: {'weight': 2}}, {Stamford, CT: {'weight': 1}}, {New Haven, CT: {'weight': 6}}, }
+Miramar, FL
+	}
+Kent, WA
+	}
+Sterling Heights, MI
+	}
+Carrollton, TX
+	}
+Coral Springs, FL
+	}
+Midland, TX
+	}
+Norman, OK
+	{Oklahoma City, OK: {'weight': 1}}, }
+Athens, GA
+	}
+Santa Clara, CA
+	{San Jose, CA: {'weight': 1}}, {Fremont, CA: {'weight': 1}}, {Santa Clara, CA: {'weight': 2}}, }
+Columbia, MO
+	}
+Fargo, ND
+	}
+Pearland, TX
+	}
+Simi Valley, CA
+	{Oxnard, CA: {'weight': 1}}, }
+Meridian, ID
+	}
+Topeka, KS
+	}
+Allentown, PA
+	}
+Thousand Oaks, CA
+	}
+Abilene, TX
+	}
+Vallejo, CA
+	}
+Concord, CA
+	}
+Round Rock, TX
+	}
+Arvada, CO
+	}
+Clovis, CA
+	}
+Palm Bay, FL
+	}
+Independence, MO
+	{Kansas City, MO: {'weight': 2}}, {Lee's Summit, MO: {'weight': 2}}, }
+Lafayette, LA
+	}
+Ann Arbor, MI
+	{Dearborn, MI: {'weight': 1}}, }
+Rochester, MN
+	}
+Hartford, CT
+	}
+College Station, TX
+	}
+Fairfield, CA
+	{Vacaville, CA: {'weight': 1}}, }
+Wilmington, NC
+	}
+North Charleston, SC
+	}
+Billings, MT
+	}
+West Palm Beach, FL
+	}
+Berkeley, CA
+	{Richmond, CA: {'weight': 1}}, }
+Cambridge, MA
+	}
+Clearwater, FL
+	}
+West Jordan, UT
+	}
+Evansville, IN
+	}
+Richardson, TX
+	}
+Broken Arrow, OK
+	}
+Richmond, CA
+	{Berkeley, CA: {'weight': 1}}, }
+League City, TX
+	}
+Manchester, NH
+	}
+Lakeland, FL
+	{Tampa, FL: {'weight': 1}}, {Lakeland, FL: {'weight': 2}}, }
+Carlsbad, CA
+	}
+Antioch, CA
+	}
+Westminster, CO
+	}
+High Point, NC
+	{Greensboro, NC: {'weight': 2}}, }
+Provo, UT
+	{Salt Lake City, UT: {'weight': 1}}, }
+Lowell, MA
+	}
+Elgin, IL
+	}
+Waterbury, CT
+	}
+Springfield, IL
+	}
+Gresham, OR
+	}
+Murrieta, CA
+	}
+Lewisville, TX
+	}
+Las Cruces, NM
+	}
+Lansing, MI
+	}
+Beaumont, TX
+	{Houston, TX: {'weight': 1}}, }
+Odessa, TX
+	}
+Pueblo, CO
+	}
+Peoria, IL
+	}
+Downey, CA
+	}
+Pompano Beach, FL
+	}
+Miami Gardens, FL
+	}
+Temecula, CA
+	}
+Everett, WA
+	}
+Costa Mesa, CA
+	}
+Ventura[, CA
+	}
+Sparks, NV
+	}
+Santa Maria, CA
+	}
+Sugar Land, TX
+	}
+Greeley, CO
+	}
+South Fulton, GA
+	}
+Dearborn, MI
+	{Detroit, MI: {'weight': 1}}, {Ann Arbor, MI: {'weight': 1}}, }
+Concord, NC
+	}
+Edison, NJ
+	}
+Tyler, TX
+	}
+Sandy Springs, GA
+	}
+West Covina, CA
+	}
+Green Bay, WI
+	}
+Centennial, CO
+	}
+Jurupa Valley, CA
+	}
+El Monte, CA
+	}
+Allen, TX
+	}
+Hillsboro, OR
+	}
+Menifee, CA
+	}
+Nampa, ID
+	}
+Spokane Valley, WA
+	}
+Rio Rancho, NM
+	}
+Brockton, MA
+	}
+El Cajon, CA
+	}
+Burbank, CA
+	{Los Angeles, CA: {'weight': 1}}, {Glendale, CA: {'weight': 1}}, {Burbank, CA: {'weight': 2}}, }
+Inglewood, CA
+	}
+Renton, WA
+	}
+Davie, FL
+	}
+Rialto, CA
+	}
+Boulder, CO
+	}
+South Bend, IN
+	{Chicago, IL: {'weight': 2}}, }
+Woodbridge, NJ
+	}
+Vacaville, CA
+	{Fairfield, CA: {'weight': 1}}, }
+Wichita Falls, TX
+	}
+Lee's Summit, MO
+	{Independence, MO: {'weight': 2}}, }
+Edinburg, TX
+	}
+Chico, CA
+	{Sacramento, CA: {'weight': 1}}, }
+San Mateo, CA
+	}
+Bend, OR
+	}
+Goodyear, AZ
+	}
+Buckeye, AZ
+	}
+Daly City, CA
+	}
+Fishers, IN
+	}
+Quincy, MA
+	}
+Davenport, IA
+	}
+Hesperia, CA
+	}
+New Bedford, MA
+	}
+Lynn, MA
+	}
+Carmel, IN
+	}
+Longmont, CO
+	}
+Tuscaloosa, AL
+	{Birmingham, AL: {'weight': 1}}, }
+Norwalk, CA
+	}
